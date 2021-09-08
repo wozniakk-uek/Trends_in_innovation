@@ -1,0 +1,28 @@
+; default ini file for clustering and analysis scripts
+; file must be put in base program *.py directory
+; this file should be put in python script folder without .default extension
+
+[main]
+base_dir = /home/wspolny-local/Papers_Database/
+papers_dir = papers/
+
+logfile = 00_log.log
+log_debug = True
+
+[clustering]
+batch_start_year = 2000
+batch_end_year = 2019
+batch_size = 5
+; no of years to take into account in batch
+
+filter_ngram_list = _filter.txt
+; list of ngrams to ignore during analysis, should be put in script directory
+filter_ngram_num = 2
+; filter ngrams for analysis if count greater than configured number
+cluster_method = hdbscan
+; or kmeans
+min_cluster_size = 5
+; valid only for hdbscan
+number_of_clusters = 30
+; valid only for kmeans   
+
