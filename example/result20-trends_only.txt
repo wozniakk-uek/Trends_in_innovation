@@ -1,0 +1,637 @@
+
+[D1] :: 2000-2004.01 -> 2001-2005.01 -> 2002-2006.08 -> 2003-2007.11 -> 2004-2008.13 -> 2005-2009.16 -> 2006-2010.12 -> 2007-2011.14 -> 2008-2012.12 -> 2009-2013.15 -> 2010-2014.15 -> 2011-2015.11 -> 2012-2016.08 -> 2013-2017.13 -> 2014-2018.14 -> 2015-2019.14 (252)
+    <2000-2004.01 033> csr, citizenship, corporate responsibility, corporate citizenship, social, immigration, finnish, value system, benchmark, social responsibility
+    <2001-2005.01 055> csr, citizenship, stakeholder, corporate responsibility, environmental, moral, gender, corporate citizenship, immigration, contractual
+    <2002-2006.08 059> csr, logistics, citizenship, environmental, smes, corporate responsibility, gender, corporate citizenship, immigration, finnish
+    <2003-2007.11 097> csr, logistics, environmental, stakeholder, smes, citizenship, corporate responsibility, djsi, sustainability, ethical
+    <2004-2008.13 096> csr, csp, mutual fund, corporate identity, cfp, djsi, identity, sustainability, ethical, ethical investment
+    <2005-2009.16 166> csr, csp, brand, stakeholder, mncs, smes, sustainability, corporate identity, cfp, identity
+    <2006-2010.12 190> csr, brand, mncs, stakeholder, green, sport, smes, sustainability, corporate identity, mnc
+    <2007-2011.14 174> csp, csr, responsible leadership, djsi, sustainability, mncs, sport, smes, csr participation, mnc
+    <2008-2012.12 163> csp, csr, responsible leadership, mncs, sport, csr participation, smes, mnc, cfp, clothing
+    <2009-2013.15 165> csp, csr, dialogue, responsible leadership, mncs, smes, mnc, clothing, leadership, conflict
+    <2010-2014.15 147> csp, csr, ipo, mncs, responsible leadership, governance, smes, mnes, mnc, green
+    <2011-2015.11 160> csp, csr, ipo, responsible leadership, governance, environmental, disclosure, scandinavian, csr image, green
+    <2012-2016.08 020> csp, ipo, backed, level of csp, djsi, cfp, governance, divergence, patent, sustainability leadership
+    <2013-2017.13 024> csp, tmt, ipo, faultlines, csr, network, backed, licensing, tmts, divergence
+    <2014-2018.14 020> csp, tmt, ipo, faultlines, network, ceo, tmts, patent, tmt position, divergence
+    <2015-2019.14 063> tmt, family, ipo, sew, faultlines, incentive pay, founder, underpricing, stewardship, csr
+
+[D2] :: 2000-2004.01 -> 2001-2005.01 -> 2002-2006.09 -> 2003-2007.08 -> 2004-2008.13 -> 2005-2009.16 -> 2006-2010.12 -> 2007-2011.14 -> 2008-2012.12 -> 2009-2013.15 -> 2010-2014.15 -> 2011-2015.11 -> 2012-2016.08 (22)
+    See similar trends: D1: 85%
+    <2000-2004.01 033> csr, citizenship, corporate responsibility, corporate citizenship, social, immigration, finnish, value system, benchmark, social responsibility
+    <2001-2005.01 055> csr, citizenship, stakeholder, corporate responsibility, environmental, moral, gender, corporate citizenship, immigration, contractual
+    <2002-2006.09 142> privacy, code, auditor, audit, ethical leadership, moral, board, ethical, integrity, electronic monitoring
+    <2003-2007.08 020> mutual fund, ethical, ethical investment, fund, incubator, investor, social, conventional, social responsibility, trading
+    <2004-2008.13 096> csr, csp, mutual fund, corporate identity, cfp, djsi, identity, sustainability, ethical, ethical investment
+    <2005-2009.16 166> csr, csp, brand, stakeholder, mncs, smes, sustainability, corporate identity, cfp, identity
+    <2006-2010.12 190> csr, brand, mncs, stakeholder, green, sport, smes, sustainability, corporate identity, mnc
+    <2007-2011.14 174> csp, csr, responsible leadership, djsi, sustainability, mncs, sport, smes, csr participation, mnc
+    <2008-2012.12 163> csp, csr, responsible leadership, mncs, sport, csr participation, smes, mnc, cfp, clothing
+    <2009-2013.15 165> csp, csr, dialogue, responsible leadership, mncs, smes, mnc, clothing, leadership, conflict
+    <2010-2014.15 147> csp, csr, ipo, mncs, responsible leadership, governance, smes, mnes, mnc, green
+    <2011-2015.11 160> csp, csr, ipo, responsible leadership, governance, environmental, disclosure, scandinavian, csr image, green
+    <2012-2016.08 020> csp, ipo, backed, level of csp, djsi, cfp, governance, divergence, patent, sustainability leadership
+
+[D3] :: 2000-2004.02 -> 2001-2005.03 -> 2002-2006.11 -> 2003-2007.09 -> 2004-2008.17 -> 2005-2009.12 -> 2006-2010.14 -> 2007-2011.08 -> 2008-2012.07 -> 2009-2013.09 -> 2010-2014.12 -> 2011-2015.08 -> 2012-2016.05 -> 2013-2017.07 -> 2014-2018.06 -> 2015-2019.04 (93)
+    <2000-2004.02 077> patent, ntbfs, iprs, collaboration, swedish, park, dutch, patenting, latin, canon
+    <2001-2005.03 038> patent, linux, software, genetic, patenting, canon, citation, genetic screening, radical, ipo
+    <2002-2006.11 060> patent, linux, chalmers, software, music, genetic, piracy, copyright, pirated, softlifting
+    <2003-2007.09 049> genetic, patent, licensing, inventor, embedded software, basic research, science, research, cell, citation
+    <2004-2008.17 032> patent, basic research, research, citation, infringement, faculty, patenting, inventor, patent value, patent class
+    <2005-2009.12 037> examiner, patent, licensing, epo, citation, patenting, faculty, infringement, validation, blocking
+    <2006-2010.14 026> patent, licensing, inventor, epo, infringement, invention, blocking, validation, patenting, citation
+    <2007-2011.08 053> patent, examiner, licensing, patenting, inventor, faculty, gene, epo, research, foreign
+    <2008-2012.07 051> patent, examiner, licensing, patenting, basic research, faculty, gene, sipo, epo, research
+    <2009-2013.09 068> patent, university, usos, patenting, tlo, grace, entrepreneurial, licensing, opposition, sipo
+    <2010-2014.12 059> patent, university, vcs, patenting, grace, licensing, opposition, sipo, uspto, regional
+    <2011-2015.08 054> patent, patenting, licensing, opposition, sipo, uspto, roadmap, licensee, npd, patent term
+    <2012-2016.05 047> npd, licensing, creativity, npd portfolio, patent, marketing department, mft, marketing, licensee, team
+    <2013-2017.07 039> npd, licensing, creativity, patent, marketing department, marketing, licensee, npd success, product creativity, stakeholder
+    <2014-2018.06 029> npd, licensing, patent, licensee, npd success, customer, npd performance, new product, front end, technology
+    <2015-2019.04 072> mtas, licensing, patenting, patent, preemptive, ttos, recombination, novelty, technology transfer, technology
+
+[D4] :: 2000-2004.02 -> 2001-2005.05 -> 2002-2006.11 -> 2003-2007.09 -> 2004-2008.17 -> 2005-2009.12 (25)
+    See similar trends: D3: 83%
+    <2000-2004.02 077> patent, ntbfs, iprs, collaboration, swedish, park, dutch, patenting, latin, canon
+    <2001-2005.05 094> incubator, logistics, ntbfs, iso, project, park, smes, knowledge, dutch, environmental
+    <2002-2006.11 060> patent, linux, chalmers, software, music, genetic, piracy, copyright, pirated, softlifting
+    <2003-2007.09 049> genetic, patent, licensing, inventor, embedded software, basic research, science, research, cell, citation
+    <2004-2008.17 032> patent, basic research, research, citation, infringement, faculty, patenting, inventor, patent value, patent class
+    <2005-2009.12 037> examiner, patent, licensing, epo, citation, patenting, faculty, infringement, validation, blocking
+
+[D5] :: 2000-2004.03 -> 2001-2005.00 -> 2002-2006.07 -> 2003-2007.04 -> 2004-2008.06 -> 2005-2009.14 -> 2006-2010.11 -> 2007-2011.13 -> 2008-2012.08 (59)
+    <2000-2004.03 041> family, work family, stock, ipo, compensation, career satisfaction, pay, mother, ownership, home
+    <2001-2005.00 043> family, work family, stock, compensation, ipo, underpricing, career satisfaction, mother, ownership, pay
+    <2002-2006.07 020> underpricing, tmt, family, ipo, ownership, option exercise, vcs, nonfamily, inside ownership, ownership concentration
+    <2003-2007.04 028> tmt, repurchase, underpricing, compensation, ipo, team, behavioral integration, ceo, stock, dsi
+    <2004-2008.06 024> tmt, underpricing, prestigious, team, ipo, behavioral integration, leadership, episodic, empowering, functional diversity
+    <2005-2009.14 067> jpim, npd, industrial design, project, tmt, underpricing, ipo, team, expertise diversity, diversity
+    <2006-2010.11 020> team, diversity, creative performance, npd, leadership, episodic, cohesiveness, climate, teamwork, downsizing
+    <2007-2011.13 023> team, diversity, interdependence, npd, cohesiveness, behavioral integrity, climate, teamwork, creative performance, downsizing
+    <2008-2012.08 052> npd, team, marketing, diversity, jpim, temporal, integration, team diversity, strategic planning, alignment
+
+[D6] :: 2000-2004.04 -> 2001-2005.04 -> 2002-2006.10 -> 2003-2007.03 -> 2004-2008.11 -> 2005-2009.10 -> 2006-2010.13 -> 2007-2011.11 -> 2008-2012.11 -> 2009-2013.14 -> 2010-2014.17 -> 2011-2015.05 -> 2012-2016.09 -> 2013-2017.12 -> 2014-2018.11 -> 2015-2019.12 (169)
+    <2000-2004.04 046> foresight, innovation, smes, biotech, venture, environmental, biotechnology, venture capital, regional, technology
+    <2001-2005.04 048> innovation, service, regional, biotechnology, venture, venture capital, complexity, start, nsd, technology
+    <2002-2006.10 036> innovation, regional, service, innovation process, innovative, taxonomy, concept, technological, national, innovative process
+    <2003-2007.03 058> ocb, service, outsourcing, regional, innovation, biotechnology, justice, service climate, procedural justice, procedural
+    <2004-2008.11 067> ocb, service, outsourcing, regional, innovation, biotechnology, service climate, knowledge sourcing, spatial, persistence
+    <2005-2009.10 113> lmt, service, outsourcing, regional, market orientation, innovation, knowledge sourcing, tech, degree of novelty, sector
+    <2006-2010.13 056> lmt, open innovation, smes, degree of novelty, innovation, tech, knowledge sourcing, patenting, persistence, novelty
+    <2007-2011.11 057> policy, open innovation, smes, openness, innovation, nsd, sti, tech, knowledge sourcing, degree of novelty
+    <2008-2012.11 041> smes, open innovation, innovation, openness, tech, knowledge sourcing, high tech, service, ivc, npd
+    <2009-2013.14 027> innovation, policy, smes, open innovation, tech, transformative, innovation activity, cooperation, discourse, collaboration
+    <2010-2014.17 036> policy, innovation, smes, open innovation, service, persistence, tncs, sme, manufacturing, external
+    <2011-2015.05 052> design, policy, innovation, product design, process innovation, persistence, product form, design investment, product, persistency
+    <2012-2016.09 032> innovation, process innovation, persistence, sourcing, knowledge sourcing, ivc, innovation output, external, network, discourse
+    <2013-2017.12 031> innovation, open innovation, process innovation, human capital, persistence, export, persistency, innovation output, external, discourse
+    <2014-2018.11 047> innovation, open innovation, process innovation, human capital, persistence, export, sourcing, persistency, product and process, micro
+    <2015-2019.12 051> procurement, innovation, process innovation, public sector, intermediation, human capital, absorptive capacity, export, absorptive, persistency
+
+[D7] :: 2000-2004.06 -> 2001-2005.02 -> 2002-2006.06 -> 2003-2007.05 -> 2004-2008.05 -> 2005-2009.14 -> 2006-2010.10 -> 2007-2011.12 -> 2008-2012.08 -> 2009-2013.13 -> 2010-2014.14 -> 2011-2015.07 -> 2012-2016.05 -> 2013-2017.07 -> 2014-2018.06 -> 2015-2019.06 (98)
+    <2000-2004.06 032> npd, team, product development, product, project, proximity, interdependence, new product, cooperation, timeliness
+    <2001-2005.02 046> industrial design, npd, architecture, platform, interface, design, toy, product development, danish, research
+    <2002-2006.06 037> npd, industrial design, innovativeness, design, toy, danish, product development, product innovativeness, new product, product
+    <2003-2007.05 050> npd, industrial design, project, team, design, creative performance, toy, danish, leadership, audit
+    <2004-2008.05 035> jpim, npd, industrial design, user, lead user, design, creative performance, toy, audit, danish
+    <2005-2009.14 067> jpim, npd, industrial design, project, tmt, underpricing, ipo, team, expertise diversity, diversity
+    <2006-2010.10 020> jpim, npd, global npd, usage, risk management, classic, nonprofit, risk, npd process, radical npd
+    <2007-2011.12 022> jpim, npd, marketing, global npd, integration, usage, strategic planning, design, classic, risk management
+    <2008-2012.08 052> npd, team, marketing, diversity, jpim, temporal, integration, team diversity, strategic planning, alignment
+    <2009-2013.13 041> npd, team, openness, strategic planning, cohesiveness, project, information, alignment, stakeholder, climate
+    <2010-2014.14 040> npd, marketing, openness, team, power, marketing department, strategic planning, information, stakeholder, cohesiveness
+    <2011-2015.07 038> npd, marketing, creativity, portfolio, patent, marketing department, mft, team, information, strategic planning
+    <2012-2016.05 047> npd, licensing, creativity, npd portfolio, patent, marketing department, mft, marketing, licensee, team
+    <2013-2017.07 039> npd, licensing, creativity, patent, marketing department, marketing, licensee, npd success, product creativity, stakeholder
+    <2014-2018.06 029> npd, licensing, patent, licensee, npd success, customer, npd performance, new product, front end, technology
+    <2015-2019.06 032> npd, acap, supplier, npd collaboration, gate, npd portfolio, interfirm, customer participation, npd success, customer
+
+[D8] :: 2000-2004.07 -> 2001-2005.06 -> 2002-2006.09 -> 2003-2007.11 -> 2004-2008.13 -> 2005-2009.16 -> 2006-2010.12 -> 2007-2011.14 -> 2008-2012.12 -> 2009-2013.15 -> 2010-2014.15 -> 2011-2015.11 (62)
+    <2000-2004.07 081> privacy, code, climate, ethical, ethical work, electronic monitoring, idealism, moral, employee monitoring, moral intensity
+    <2001-2005.06 097> privacy, code, climate, ethical, moral, electronic monitoring, idealism, scholarship, moral problem, consumer
+    <2002-2006.09 142> privacy, code, auditor, audit, ethical leadership, moral, board, ethical, integrity, electronic monitoring
+    <2003-2007.11 097> csr, logistics, environmental, stakeholder, smes, citizenship, corporate responsibility, djsi, sustainability, ethical
+    <2004-2008.13 096> csr, csp, mutual fund, corporate identity, cfp, djsi, identity, sustainability, ethical, ethical investment
+    <2005-2009.16 166> csr, csp, brand, stakeholder, mncs, smes, sustainability, corporate identity, cfp, identity
+    <2006-2010.12 190> csr, brand, mncs, stakeholder, green, sport, smes, sustainability, corporate identity, mnc
+    <2007-2011.14 174> csp, csr, responsible leadership, djsi, sustainability, mncs, sport, smes, csr participation, mnc
+    <2008-2012.12 163> csp, csr, responsible leadership, mncs, sport, csr participation, smes, mnc, cfp, clothing
+    <2009-2013.15 165> csp, csr, dialogue, responsible leadership, mncs, smes, mnc, clothing, leadership, conflict
+    <2010-2014.15 147> csp, csr, ipo, mncs, responsible leadership, governance, smes, mnes, mnc, green
+    <2011-2015.11 160> csp, csr, ipo, responsible leadership, governance, environmental, disclosure, scandinavian, csr image, green
+
+[D9] :: 2000-2004.07 -> 2001-2005.06 -> 2002-2006.09 -> 2003-2007.12 -> 2004-2008.09 -> 2005-2009.18 -> 2006-2010.08 -> 2007-2011.15 -> 2008-2012.13 -> 2009-2013.12 -> 2010-2014.13 (63)
+    See similar trends: D8: 27%
+    <2000-2004.07 081> privacy, code, climate, ethical, ethical work, electronic monitoring, idealism, moral, employee monitoring, moral intensity
+    <2001-2005.06 097> privacy, code, climate, ethical, moral, electronic monitoring, idealism, scholarship, moral problem, consumer
+    <2002-2006.09 142> privacy, code, auditor, audit, ethical leadership, moral, board, ethical, integrity, electronic monitoring
+    <2003-2007.12 098> cheating, code, audit, moral, ethical, auditor, dit, business code, tier, accounting
+    <2004-2008.09 046> moral, audit, audit committee, moral intensity, moral problem, ethical, moral hypocrisy, moral imagination, committee, chent
+    <2005-2009.18 036> ethical culture, idealism, moral intensity, ethical, hotel, moral, audit, relativism, chartered, thai
+    <2006-2010.08 059> ocb, leadership, misreporting, lmx, misconduct, ethical culture, ethical leadership, ethical, acme, climate
+    <2007-2011.15 032> leadership, misconduct, climate, ethical leadership, job satisfaction, shared leadership, turnover, team, ethical, organizational misconduct
+    <2008-2012.13 059> leadership, ethical culture, climate, ethical leadership, shared leadership, unethical, misreporting, ethical, unethical behavior, ethical climate
+    <2009-2013.12 080> leadership, ethical culture, ethical, ethical leadership, climate, unethical, misreporting, unethical behavior, ethical climate, transformative
+    <2010-2014.13 076> leadership, vignette, ethical, ethical leadership, climate, ethical culture, ethical behavior, ethical climate, moral intensity, transformative
+
+[D10] :: 2000-2004.07 -> 2001-2005.06 -> 2002-2006.09 -> 2003-2007.12 -> 2004-2008.10 (19)
+    See similar trends: D8: 60%, D9: 80%
+    <2000-2004.07 081> privacy, code, climate, ethical, ethical work, electronic monitoring, idealism, moral, employee monitoring, moral intensity
+    <2001-2005.06 097> privacy, code, climate, ethical, moral, electronic monitoring, idealism, scholarship, moral problem, consumer
+    <2002-2006.09 142> privacy, code, auditor, audit, ethical leadership, moral, board, ethical, integrity, electronic monitoring
+    <2003-2007.12 098> cheating, code, audit, moral, ethical, auditor, dit, business code, tier, accounting
+    <2004-2008.10 029> code, ethical, business code, thai, gender, theme, business world, ethical behavior, teleological, swedish
+
+[D11] :: 2000-2004.08 -> 2001-2005.07 -> 2002-2006.04 -> 2003-2007.06 -> 2004-2008.12 -> 2005-2009.05 (48)
+    <2000-2004.08 026> tbe, aristotle, ethical, common good, ceo, pollution prevention, rent, environmental, tho, latin
+    <2001-2005.07 038> tbe, ethical sensitivity, telework, moral, aristotle, ethical, brand, temptation, church, doctrine
+    <2002-2006.04 045> aristotle, tbe, ethical sensitivity, doctrine, telework, brand, bribery, moral, temptation, locus of control
+    <2003-2007.06 033> tbe, ethical sensitivity, doctrine, equity, locus of control, brand, moral, temptation, ethical, stewardship
+    <2004-2008.12 035> tbe, stewardship, doctrine, climate, ethical climate, ethical, ocb, locus of control, temptation, moral
+    <2005-2009.05 026> tbe, arbitration, ethical sensitivity, doctrine, stewardship, team, locus of control, sensitivity, tbat, temptation
+
+[D12] :: 2001-2005.01 -> 2002-2006.03 -> 2003-2007.11 -> 2004-2008.14 -> 2005-2009.16 -> 2006-2010.12 -> 2007-2011.14 -> 2008-2012.12 -> 2009-2013.15 -> 2010-2014.15 -> 2011-2015.11 (32)
+    See similar trends: D1: 82%, D2: 73%
+    <2001-2005.01 055> csr, citizenship, stakeholder, corporate responsibility, environmental, moral, gender, corporate citizenship, immigration, contractual
+    <2002-2006.03 022> stakeholder, environmental, firm stakeholder, corporation, moral, contractual, stakeholder approach, stakeholder model, natural environment, stakeholder theory
+    <2003-2007.11 097> csr, logistics, environmental, stakeholder, smes, citizenship, corporate responsibility, djsi, sustainability, ethical
+    <2004-2008.14 022> stakeholder, stakeholder dialogue, stakeholder approach, natural environment, stakeholder engagement, stakeholder model, discourse, csr, dialogue, stockholder
+    <2005-2009.16 166> csr, csp, brand, stakeholder, mncs, smes, sustainability, corporate identity, cfp, identity
+    <2006-2010.12 190> csr, brand, mncs, stakeholder, green, sport, smes, sustainability, corporate identity, mnc
+    <2007-2011.14 174> csp, csr, responsible leadership, djsi, sustainability, mncs, sport, smes, csr participation, mnc
+    <2008-2012.12 163> csp, csr, responsible leadership, mncs, sport, csr participation, smes, mnc, cfp, clothing
+    <2009-2013.15 165> csp, csr, dialogue, responsible leadership, mncs, smes, mnc, clothing, leadership, conflict
+    <2010-2014.15 147> csp, csr, ipo, mncs, responsible leadership, governance, smes, mnes, mnc, green
+    <2011-2015.11 160> csp, csr, ipo, responsible leadership, governance, environmental, disclosure, scandinavian, csr image, green
+
+[D13] :: 2001-2005.01 -> 2002-2006.08 -> 2003-2007.11 -> 2004-2008.14 -> 2005-2009.16 -> 2006-2010.12 -> 2007-2011.14 -> 2008-2012.12 (5)
+    See similar trends: D1: 88%, D2: 62%, D12: 88%
+    <2001-2005.01 055> csr, citizenship, stakeholder, corporate responsibility, environmental, moral, gender, corporate citizenship, immigration, contractual
+    <2002-2006.08 059> csr, logistics, citizenship, environmental, smes, corporate responsibility, gender, corporate citizenship, immigration, finnish
+    <2003-2007.11 097> csr, logistics, environmental, stakeholder, smes, citizenship, corporate responsibility, djsi, sustainability, ethical
+    <2004-2008.14 022> stakeholder, stakeholder dialogue, stakeholder approach, natural environment, stakeholder engagement, stakeholder model, discourse, csr, dialogue, stockholder
+    <2005-2009.16 166> csr, csp, brand, stakeholder, mncs, smes, sustainability, corporate identity, cfp, identity
+    <2006-2010.12 190> csr, brand, mncs, stakeholder, green, sport, smes, sustainability, corporate identity, mnc
+    <2007-2011.14 174> csp, csr, responsible leadership, djsi, sustainability, mncs, sport, smes, csr participation, mnc
+    <2008-2012.12 163> csp, csr, responsible leadership, mncs, sport, csr participation, smes, mnc, cfp, clothing
+
+[D14] :: 2001-2005.03 -> 2002-2006.11 -> 2003-2007.07 -> 2004-2008.15 -> 2005-2009.11 -> 2006-2010.06 -> 2007-2011.01 (38)
+    See similar trends: D3: 29%
+    <2001-2005.03 038> patent, linux, software, genetic, patenting, canon, citation, genetic screening, radical, ipo
+    <2002-2006.11 060> patent, linux, chalmers, software, music, genetic, piracy, copyright, pirated, softlifting
+    <2003-2007.07 025> music, linux, software, open source, piracy, copyright, gpl, pirated, softlifting, software piracy
+    <2004-2008.15 025> music, software, gpl, piracy, copyright, softlifting, software piracy, linux, neutralization, innovation
+    <2005-2009.11 024> music, software, piracy, copyright, software piracy, neutralization, software development, innovation, pirated software, pirated
+    <2006-2010.06 029> music, software, microsoft, piracy, pirated, wtp, pirated software, software piracy, software development, neutralization
+    <2007-2011.01 021> music, piracy, pirated, wtp, software piracy, pirated software, installed base, digital, neutralization, software
+
+[D15] :: 2002-2006.05 -> 2003-2007.05 -> 2004-2008.05 -> 2005-2009.14 -> 2006-2010.11 -> 2007-2011.13 -> 2008-2012.08 -> 2009-2013.13 -> 2010-2014.14 -> 2011-2015.03 (14)
+    <2002-2006.05 022> project, team, creative performance, empowering, organisational learning, organisational, proximity, budget, creative, radical innovation
+    <2003-2007.05 050> npd, industrial design, project, team, design, creative performance, toy, danish, leadership, audit
+    <2004-2008.05 035> jpim, npd, industrial design, user, lead user, design, creative performance, toy, audit, danish
+    <2005-2009.14 067> jpim, npd, industrial design, project, tmt, underpricing, ipo, team, expertise diversity, diversity
+    <2006-2010.11 020> team, diversity, creative performance, npd, leadership, episodic, cohesiveness, climate, teamwork, downsizing
+    <2007-2011.13 023> team, diversity, interdependence, npd, cohesiveness, behavioral integrity, climate, teamwork, creative performance, downsizing
+    <2008-2012.08 052> npd, team, marketing, diversity, jpim, temporal, integration, team diversity, strategic planning, alignment
+    <2009-2013.13 041> npd, team, openness, strategic planning, cohesiveness, project, information, alignment, stakeholder, climate
+    <2010-2014.14 040> npd, marketing, openness, team, power, marketing department, strategic planning, information, stakeholder, cohesiveness
+    <2011-2015.03 033> courage, team, radical innovation, improvisation, distance, power, courageous, behavioral integrity, chapter, prosocial motivation
+
+[D16] :: 2002-2006.05 -> 2003-2007.05 -> 2004-2008.06 -> 2005-2009.14 -> 2006-2010.11 -> 2007-2011.13 -> 2008-2012.08 -> 2009-2013.13 -> 2010-2014.14 -> 2011-2015.03 (15)
+    <2002-2006.05 022> project, team, creative performance, empowering, organisational learning, organisational, proximity, budget, creative, radical innovation
+    <2003-2007.05 050> npd, industrial design, project, team, design, creative performance, toy, danish, leadership, audit
+    <2004-2008.06 024> tmt, underpricing, prestigious, team, ipo, behavioral integration, leadership, episodic, empowering, functional diversity
+    <2005-2009.14 067> jpim, npd, industrial design, project, tmt, underpricing, ipo, team, expertise diversity, diversity
+    <2006-2010.11 020> team, diversity, creative performance, npd, leadership, episodic, cohesiveness, climate, teamwork, downsizing
+    <2007-2011.13 023> team, diversity, interdependence, npd, cohesiveness, behavioral integrity, climate, teamwork, creative performance, downsizing
+    <2008-2012.08 052> npd, team, marketing, diversity, jpim, temporal, integration, team diversity, strategic planning, alignment
+    <2009-2013.13 041> npd, team, openness, strategic planning, cohesiveness, project, information, alignment, stakeholder, climate
+    <2010-2014.14 040> npd, marketing, openness, team, power, marketing department, strategic planning, information, stakeholder, cohesiveness
+    <2011-2015.03 033> courage, team, radical innovation, improvisation, distance, power, courageous, behavioral integrity, chapter, prosocial motivation
+
+[D17] :: 2002-2006.09 -> 2003-2007.12 -> 2004-2008.10 -> 2005-2009.18 -> 2006-2010.09 -> 2007-2011.10 -> 2008-2012.10 -> 2009-2013.12 -> 2010-2014.13 -> 2011-2015.09 -> 2012-2016.07 -> 2013-2017.09 -> 2014-2018.12 -> 2015-2019.13 (65)
+    <2002-2006.09 142> privacy, code, auditor, audit, ethical leadership, moral, board, ethical, integrity, electronic monitoring
+    <2003-2007.12 098> cheating, code, audit, moral, ethical, auditor, dit, business code, tier, accounting
+    <2004-2008.10 029> code, ethical, business code, thai, gender, theme, business world, ethical behavior, teleological, swedish
+    <2005-2009.18 036> ethical culture, idealism, moral intensity, ethical, hotel, moral, audit, relativism, chartered, thai
+    <2006-2010.09 024> idealism, moral intensity, presor, hotel, ethical, relativism, chartered, thai, businesspeople, ethical judgment
+    <2007-2011.10 027> idealism, moral intensity, hotel, ethical, emotional intelligence, relativism, thai, chartered, ethical behavior, businesspeople
+    <2008-2012.10 023> idealism, ethical, pie, moral, relativism, thai, chartered, cev, businesspeople, stress
+    <2009-2013.12 080> leadership, ethical culture, ethical, ethical leadership, climate, unethical, misreporting, unethical behavior, ethical climate, transformative
+    <2010-2014.13 076> leadership, vignette, ethical, ethical leadership, climate, ethical culture, ethical behavior, ethical climate, moral intensity, transformative
+    <2011-2015.09 087> leadership, upb, tax compliance, ocbs, ethical, climate, ethical leadership, tax, ethical culture, tax morale
+    <2012-2016.07 121> moral, leadership, upb, vignette, ocbs, moral judgment, ethical, political skill, abusive supervision, stress
+    <2013-2017.09 173> moral, leadership, upb, vignette, care, business, ocbs, ethical, ethical consumption, moral judgment
+    <2014-2018.12 038> moral, business, moral judgment, ethical, ethical sensitivity, ethical context, moral intensity, moral identity, ethical decision, ethical decision making
+    <2015-2019.13 066> moral, leadership, moral judgment, ethical leadership, dmn, ethical climate, hindrance, reflectiveness, ethical, moral intensity
+
+[D18] :: 2002-2006.11 -> 2003-2007.09 -> 2004-2008.17 -> 2005-2009.12 -> 2006-2010.15 -> 2007-2011.09 -> 2008-2012.05 -> 2009-2013.09 -> 2010-2014.12 (27)
+    See similar trends: D3: 67%
+    <2002-2006.11 060> patent, linux, chalmers, software, music, genetic, piracy, copyright, pirated, softlifting
+    <2003-2007.09 049> genetic, patent, licensing, inventor, embedded software, basic research, science, research, cell, citation
+    <2004-2008.17 032> patent, basic research, research, citation, infringement, faculty, patenting, inventor, patent value, patent class
+    <2005-2009.12 037> examiner, patent, licensing, epo, citation, patenting, faculty, infringement, validation, blocking
+    <2006-2010.15 031> spin offs, university, industry involvement, faculty, patenting, patent, publication, industry, dea, tech
+    <2007-2011.09 048> center, scientist, knowledge transfer, usos, spin, university, waterloo, mae, entrepreneurial, spin offs
+    <2008-2012.05 058> tto, spin, funding, center, usos, tlo, scientist, knowledge transfer, university, waterloo
+    <2009-2013.09 068> patent, university, usos, patenting, tlo, grace, entrepreneurial, licensing, opposition, sipo
+    <2010-2014.12 059> patent, university, vcs, patenting, grace, licensing, opposition, sipo, uspto, regional
+
+[D19] :: 2002-2006.11 -> 2003-2007.10 -> 2004-2008.16 -> 2005-2009.13 -> 2006-2010.15 -> 2007-2011.09 -> 2008-2012.05 -> 2009-2013.09 -> 2010-2014.12 (36)
+    See similar trends: D3: 33%
+    <2002-2006.11 060> patent, linux, chalmers, software, music, genetic, piracy, copyright, pirated, softlifting
+    <2003-2007.10 024> spin, chalmers, park, parent firm, ntbfs, university, science, usos, parent, science park
+    <2004-2008.16 021> spin, university, lrd, park, knowledge, university of waterloo, beijing, pris, technology transfer, sponsored
+    <2005-2009.13 024> spin, university, spin offs, park, industry involvement, industry, knowledge, university of waterloo, technology transfer, pris
+    <2006-2010.15 031> spin offs, university, industry involvement, faculty, patenting, patent, publication, industry, dea, tech
+    <2007-2011.09 048> center, scientist, knowledge transfer, usos, spin, university, waterloo, mae, entrepreneurial, spin offs
+    <2008-2012.05 058> tto, spin, funding, center, usos, tlo, scientist, knowledge transfer, university, waterloo
+    <2009-2013.09 068> patent, university, usos, patenting, tlo, grace, entrepreneurial, licensing, opposition, sipo
+    <2010-2014.12 059> patent, university, vcs, patenting, grace, licensing, opposition, sipo, uspto, regional
+
+[D20] :: 2003-2007.01 -> 2004-2008.02 -> 2005-2009.15 -> 2006-2010.07 -> 2007-2011.04 -> 2008-2012.09 -> 2009-2013.11 (57)
+    <2003-2007.01 020> anomie, corruption, procurement, bribery, convention, nigeria, perceived corruption, public procurement, fdi, facilitating
+    <2004-2008.02 035> anomie, corruption, fdi, procurement, bribery, nigeria, convention, extemal, marketing function, written code
+    <2005-2009.15 031> corruption, bribery, fcpa, convention, nigeria, anomie, authority, perceived corruption, dunfee, bribe
+    <2006-2010.07 032> corruption, bribery, fcpa, convention, bpi, anomie, authority, dunfee, bribe, regulation
+    <2007-2011.04 036> corruption, bribery, fcpa, convention, bpi, anomie, authority, dunfee, corrupt, bribe
+    <2008-2012.09 039> guanxi, corruption, bribery, fcpa, nigeria, authority, supervisor, dunfee, supervisor subordinate, bribe
+    <2009-2013.11 034> guanxi, corruption, bribery, fcpa, nigeria, dunfee, rural, supervisor, supervisor subordinate, bribe
+
+[D21] :: 2003-2007.05 -> 2004-2008.06 -> 2005-2009.14 -> 2006-2010.11 -> 2007-2011.15 -> 2008-2012.13 -> 2009-2013.12 -> 2010-2014.13 (4)
+    See similar trends: D7: 25%, D15: 38%, D16: 50%
+    <2003-2007.05 050> npd, industrial design, project, team, design, creative performance, toy, danish, leadership, audit
+    <2004-2008.06 024> tmt, underpricing, prestigious, team, ipo, behavioral integration, leadership, episodic, empowering, functional diversity
+    <2005-2009.14 067> jpim, npd, industrial design, project, tmt, underpricing, ipo, team, expertise diversity, diversity
+    <2006-2010.11 020> team, diversity, creative performance, npd, leadership, episodic, cohesiveness, climate, teamwork, downsizing
+    <2007-2011.15 032> leadership, misconduct, climate, ethical leadership, job satisfaction, shared leadership, turnover, team, ethical, organizational misconduct
+    <2008-2012.13 059> leadership, ethical culture, climate, ethical leadership, shared leadership, unethical, misreporting, ethical, unethical behavior, ethical climate
+    <2009-2013.12 080> leadership, ethical culture, ethical, ethical leadership, climate, unethical, misreporting, unethical behavior, ethical climate, transformative
+    <2010-2014.13 076> leadership, vignette, ethical, ethical leadership, climate, ethical culture, ethical behavior, ethical climate, moral intensity, transformative
+
+[D22] :: 2004-2008.12 -> 2005-2009.17 -> 2006-2010.08 -> 2007-2011.15 -> 2008-2012.13 -> 2009-2013.12 -> 2010-2014.13 -> 2011-2015.09 -> 2012-2016.07 -> 2013-2017.09 -> 2014-2018.12 -> 2015-2019.13 (90)
+    <2004-2008.12 035> tbe, stewardship, doctrine, climate, ethical climate, ethical, ocb, locus of control, temptation, moral
+    <2005-2009.17 024> leadership, ethical leadership, climate, ethical climate, salesperson, ethical, ocb, leader, job satisfaction, anita
+    <2006-2010.08 059> ocb, leadership, misreporting, lmx, misconduct, ethical culture, ethical leadership, ethical, acme, climate
+    <2007-2011.15 032> leadership, misconduct, climate, ethical leadership, job satisfaction, shared leadership, turnover, team, ethical, organizational misconduct
+    <2008-2012.13 059> leadership, ethical culture, climate, ethical leadership, shared leadership, unethical, misreporting, ethical, unethical behavior, ethical climate
+    <2009-2013.12 080> leadership, ethical culture, ethical, ethical leadership, climate, unethical, misreporting, unethical behavior, ethical climate, transformative
+    <2010-2014.13 076> leadership, vignette, ethical, ethical leadership, climate, ethical culture, ethical behavior, ethical climate, moral intensity, transformative
+    <2011-2015.09 087> leadership, upb, tax compliance, ocbs, ethical, climate, ethical leadership, tax, ethical culture, tax morale
+    <2012-2016.07 121> moral, leadership, upb, vignette, ocbs, moral judgment, ethical, political skill, abusive supervision, stress
+    <2013-2017.09 173> moral, leadership, upb, vignette, care, business, ocbs, ethical, ethical consumption, moral judgment
+    <2014-2018.12 038> moral, business, moral judgment, ethical, ethical sensitivity, ethical context, moral intensity, moral identity, ethical decision, ethical decision making
+    <2015-2019.13 066> moral, leadership, moral judgment, ethical leadership, dmn, ethical climate, hindrance, reflectiveness, ethical, moral intensity
+
+[D24] :: 2004-2008.17 -> 2005-2009.12 -> 2006-2010.15 -> 2007-2011.08 -> 2008-2012.07 -> 2009-2013.09 -> 2010-2014.12 -> 2011-2015.08 -> 2012-2016.06 -> 2013-2017.08 -> 2014-2018.07 -> 2015-2019.04 (57)
+    See similar trends: D3: 67%
+    <2004-2008.17 032> patent, basic research, research, citation, infringement, faculty, patenting, inventor, patent value, patent class
+    <2005-2009.12 037> examiner, patent, licensing, epo, citation, patenting, faculty, infringement, validation, blocking
+    <2006-2010.15 031> spin offs, university, industry involvement, faculty, patenting, patent, publication, industry, dea, tech
+    <2007-2011.08 053> patent, examiner, licensing, patenting, inventor, faculty, gene, epo, research, foreign
+    <2008-2012.07 051> patent, examiner, licensing, patenting, basic research, faculty, gene, sipo, epo, research
+    <2009-2013.09 068> patent, university, usos, patenting, tlo, grace, entrepreneurial, licensing, opposition, sipo
+    <2010-2014.12 059> patent, university, vcs, patenting, grace, licensing, opposition, sipo, uspto, regional
+    <2011-2015.08 054> patent, patenting, licensing, opposition, sipo, uspto, roadmap, licensee, npd, patent term
+    <2012-2016.06 049> patent, patenting, novelty, opposition, litigated, sipo, uspto, roadmap, patent term, epo
+    <2013-2017.08 034> patent, patenting, novelty, opposition, sipo, uspto, roadmap, patent term, patent pool, epo
+    <2014-2018.07 027> patenting, patent, novelty, roadmap, patent pool, sipo, patent term, export, pharmaceutical, traded
+    <2015-2019.04 072> mtas, licensing, patenting, patent, preemptive, ttos, recombination, novelty, technology transfer, technology
+
+[D25] :: 2005-2009.06 -> 2006-2010.01 -> 2007-2011.00 -> 2008-2012.00 -> 2009-2013.03 (37)
+    <2005-2009.06 023> coffee, fair trade, rbp, starbucks, buying behaviour, fair, atos, trade, van der, development
+    <2006-2010.01 034> coffee, rbp, fair trade, starbucks, fair, buying behaviour, trade, atos, flo, van der
+    <2007-2011.00 036> coffee, fair trade, starbucks, buying behaviour, fair, smes, trade, atos, bean, van der
+    <2008-2012.00 035> coffee, fair trade, starbucks, credence, fair, smes, trade, atos, bean, van der
+    <2009-2013.03 031> coffee, fair trade, starbucks, hoff, fair, smes, trade, bean, fair trade consumption, trade consumption
+
+[D26] :: 2005-2009.16 -> 2006-2010.13 -> 2007-2011.11 -> 2008-2012.11 -> 2009-2013.14 -> 2010-2014.17 -> 2011-2015.06 -> 2012-2016.09 (23)
+    See similar trends: D1: 12%, D2: 12%, D8: 12%, D12: 12%, C2: 12%
+    <2005-2009.16 166> csr, csp, brand, stakeholder, mncs, smes, sustainability, corporate identity, cfp, identity
+    <2006-2010.13 056> lmt, open innovation, smes, degree of novelty, innovation, tech, knowledge sourcing, patenting, persistence, novelty
+    <2007-2011.11 057> policy, open innovation, smes, openness, innovation, nsd, sti, tech, knowledge sourcing, degree of novelty
+    <2008-2012.11 041> smes, open innovation, innovation, openness, tech, knowledge sourcing, high tech, service, ivc, npd
+    <2009-2013.14 027> innovation, policy, smes, open innovation, tech, transformative, innovation activity, cooperation, discourse, collaboration
+    <2010-2014.17 036> policy, innovation, smes, open innovation, service, persistence, tncs, sme, manufacturing, external
+    <2011-2015.06 035> nsd, smes, mobile, open innovation, service, sourcing, innovation, project, knowledge sourcing, experiential
+    <2012-2016.09 032> innovation, process innovation, persistence, sourcing, knowledge sourcing, ivc, innovation output, external, network, discourse
+
+[D29] :: 2007-2011.02 -> 2008-2012.13 -> 2009-2013.12 -> 2010-2014.13 -> 2011-2015.09 -> 2012-2016.07 -> 2013-2017.09 -> 2014-2018.13 -> 2015-2019.13 (48)
+    <2007-2011.02 042> gift, trust, user, product, social capital, trustworthiness, technology, gratuitousness, lead user, continuous improvement
+    <2008-2012.13 059> leadership, ethical culture, climate, ethical leadership, shared leadership, unethical, misreporting, ethical, unethical behavior, ethical climate
+    <2009-2013.12 080> leadership, ethical culture, ethical, ethical leadership, climate, unethical, misreporting, unethical behavior, ethical climate, transformative
+    <2010-2014.13 076> leadership, vignette, ethical, ethical leadership, climate, ethical culture, ethical behavior, ethical climate, moral intensity, transformative
+    <2011-2015.09 087> leadership, upb, tax compliance, ocbs, ethical, climate, ethical leadership, tax, ethical culture, tax morale
+    <2012-2016.07 121> moral, leadership, upb, vignette, ocbs, moral judgment, ethical, political skill, abusive supervision, stress
+    <2013-2017.09 173> moral, leadership, upb, vignette, care, business, ocbs, ethical, ethical consumption, moral judgment
+    <2014-2018.13 047> leadership, ocbs, ethical leadership, dmn, ethical, ethical climate, unethical leadership, trust in organization, leader, turnover intention
+    <2015-2019.13 066> moral, leadership, moral judgment, ethical leadership, dmn, ethical climate, hindrance, reflectiveness, ethical, moral intensity
+
+[D30] :: 2007-2011.11 -> 2008-2012.11 -> 2009-2013.13 -> 2010-2014.14 -> 2011-2015.07 -> 2012-2016.05 -> 2013-2017.07 (4)
+    See similar trends: D6: 29%, D26: 29%
+    <2007-2011.11 057> policy, open innovation, smes, openness, innovation, nsd, sti, tech, knowledge sourcing, degree of novelty
+    <2008-2012.11 041> smes, open innovation, innovation, openness, tech, knowledge sourcing, high tech, service, ivc, npd
+    <2009-2013.13 041> npd, team, openness, strategic planning, cohesiveness, project, information, alignment, stakeholder, climate
+    <2010-2014.14 040> npd, marketing, openness, team, power, marketing department, strategic planning, information, stakeholder, cohesiveness
+    <2011-2015.07 038> npd, marketing, creativity, portfolio, patent, marketing department, mft, team, information, strategic planning
+    <2012-2016.05 047> npd, licensing, creativity, npd portfolio, patent, marketing department, mft, marketing, licensee, team
+    <2013-2017.07 039> npd, licensing, creativity, patent, marketing department, marketing, licensee, npd success, product creativity, stakeholder
+
+[D31] :: 2008-2012.12 -> 2009-2013.15 -> 2010-2014.15 -> 2011-2015.11 -> 2012-2016.10 -> 2013-2017.15 -> 2014-2018.16 -> 2015-2019.15 (187)
+    See similar trends: D1: 50%, D2: 50%, D8: 50%, D12: 50%, C2: 12%
+    <2008-2012.12 163> csp, csr, responsible leadership, mncs, sport, csr participation, smes, mnc, cfp, clothing
+    <2009-2013.15 165> csp, csr, dialogue, responsible leadership, mncs, smes, mnc, clothing, leadership, conflict
+    <2010-2014.15 147> csp, csr, ipo, mncs, responsible leadership, governance, smes, mnes, mnc, green
+    <2011-2015.11 160> csp, csr, ipo, responsible leadership, governance, environmental, disclosure, scandinavian, csr image, green
+    <2012-2016.10 125> csr, age diversity, csr reporting, disclosure, gri, board, csr image, scandinavian, smes, green
+    <2013-2017.15 153> csr, cfp, green, brand, assurance, csr reporting, disclosure, gri, proactive csr, scandinavian
+    <2014-2018.16 163> csr, smes, assurance, brand, stakeholder, csr assurance, csr reporting, signaling, gri, disclosure
+    <2015-2019.15 206> csp, csr, slo, brand, smes, assurance, board, csr assurance, csr reporting, signaling
+
+[D32] :: 2010-2014.06 -> 2011-2015.01 -> 2012-2016.01 -> 2013-2017.11 -> 2014-2018.10 -> 2015-2019.07 (74)
+    <2010-2014.06 033> assurance, esg, sustainability, corporate sustainability, mncs, support sustainability, rating, sustainability adoption, environmental, corporate
+    <2011-2015.01 030> assurance, sustainability, reporting, corporate sustainability, mncs, rating, sustainability adoption, water, corporate, environmental
+    <2012-2016.01 056> fraud, assurance, tbl, sustainability, faculty, reporting, narcissism, corporate sustainability, mncs, curriculum
+    <2013-2017.11 032> fraud, tbl, sustainability, reporting, narcissism, faculty, corporate sustainability, curriculum, corporate fraud, ceo
+    <2014-2018.10 055> sbsc, psychopathy, fraud, bullying, sustainability, integrated reporting, sustainability management, reporting, sustainable, workplace bullying
+    <2015-2019.07 090> sbsc, psychopathy, fraud, bullying, big data, climate change, integrated reporting, sustainability, service, sustainability management
+
+[D33] :: 2010-2014.06 -> 2011-2015.01 -> 2012-2016.01 -> 2013-2017.15 -> 2014-2018.16 -> 2015-2019.15 (2)
+    <2010-2014.06 033> assurance, esg, sustainability, corporate sustainability, mncs, support sustainability, rating, sustainability adoption, environmental, corporate
+    <2011-2015.01 030> assurance, sustainability, reporting, corporate sustainability, mncs, rating, sustainability adoption, water, corporate, environmental
+    <2012-2016.01 056> fraud, assurance, tbl, sustainability, faculty, reporting, narcissism, corporate sustainability, mncs, curriculum
+    <2013-2017.15 153> csr, cfp, green, brand, assurance, csr reporting, disclosure, gri, proactive csr, scandinavian
+    <2014-2018.16 163> csr, smes, assurance, brand, stakeholder, csr assurance, csr reporting, signaling, gri, disclosure
+    <2015-2019.15 206> csp, csr, slo, brand, smes, assurance, board, csr assurance, csr reporting, signaling
+
+[D34] :: 2010-2014.10 -> 2011-2015.10 -> 2012-2016.11 -> 2013-2017.14 -> 2014-2018.15 -> 2015-2019.14 (63)
+    <2010-2014.10 035> family, tmt, family ownership, family involvement, misconduct, csr, search breadth, csp, chris, ceo
+    <2011-2015.10 038> family, family ownership, family involvement, csr, family support, nonfamily, search breadth, harmony, innovation, csp
+    <2012-2016.11 039> family, board, family ownership, family involvement, csr, family support, nonfamily, sew, earnings management, harmony
+    <2013-2017.14 066> family, age diversity, board, sew, family ownership, confucianism, female, founder, family involvement, diversity
+    <2014-2018.15 075> family, age diversity, board, sew, incentive pay, confucianism, family ownership, ipo, founder, female
+    <2015-2019.14 063> tmt, family, ipo, sew, faultlines, incentive pay, founder, underpricing, stewardship, csr
+
+[D35] :: 2010-2014.11 -> 2011-2015.12 -> 2012-2016.10 -> 2013-2017.15 -> 2014-2018.16 -> 2015-2019.15 (3)
+    See similar trends: C11: 50%
+    <2010-2014.11 022> brand, green, equity, brand equity, green brand, brand trust, csr, corporate brand, csr communication, consumer innovativeness
+    <2011-2015.12 020> green, brand, csr, product brand, authenticity, brand trust, greenwash, green product, corporate brand, greening
+    <2012-2016.10 125> csr, age diversity, csr reporting, disclosure, gri, board, csr image, scandinavian, smes, green
+    <2013-2017.15 153> csr, cfp, green, brand, assurance, csr reporting, disclosure, gri, proactive csr, scandinavian
+    <2014-2018.16 163> csr, smes, assurance, brand, stakeholder, csr assurance, csr reporting, signaling, gri, disclosure
+    <2015-2019.15 206> csp, csr, slo, brand, smes, assurance, board, csr assurance, csr reporting, signaling
+
+[D36] :: 2010-2014.16 -> 2011-2015.05 -> 2012-2016.04 -> 2013-2017.06 -> 2014-2018.05 -> 2015-2019.02 (39)
+    <2010-2014.16 020> design, product design, product form, design investment, product, singapore, policy, design research, design team, design capability
+    <2011-2015.05 052> design, policy, innovation, product design, process innovation, persistence, product form, design investment, product, persistency
+    <2012-2016.04 020> design, design thinking, product form, product, design investment, brainstorming, policy, singapore, brand, product design
+    <2013-2017.06 023> design, prototyping, design thinking, product form, similarity, design innovation, design investment, product, brainstorming, campus
+    <2014-2018.05 027> design, prototyping, design thinking, singapore, platform, product form, product, similarity, design investment, campus
+    <2015-2019.02 020> design thinking, platform, design, product, product appearance, product design, brand, complementors, msi, appearance
+
+[D37] :: 2010-2014.17 -> 2011-2015.06 -> 2012-2016.09 -> 2013-2017.12 -> 2014-2018.11 -> 2015-2019.12 (3)
+    See similar trends: D6: 83%, D26: 50%
+    <2010-2014.17 036> policy, innovation, smes, open innovation, service, persistence, tncs, sme, manufacturing, external
+    <2011-2015.06 035> nsd, smes, mobile, open innovation, service, sourcing, innovation, project, knowledge sourcing, experiential
+    <2012-2016.09 032> innovation, process innovation, persistence, sourcing, knowledge sourcing, ivc, innovation output, external, network, discourse
+    <2013-2017.12 031> innovation, open innovation, process innovation, human capital, persistence, export, persistency, innovation output, external, discourse
+    <2014-2018.11 047> innovation, open innovation, process innovation, human capital, persistence, export, sourcing, persistency, product and process, micro
+    <2015-2019.12 051> procurement, innovation, process innovation, public sector, intermediation, human capital, absorptive capacity, export, absorptive, persistency
+
+[D38] :: 2011-2015.02 -> 2012-2016.02 -> 2013-2017.05 -> 2014-2018.08 -> 2015-2019.08 (38)
+    <2011-2015.02 033> spirituality, islamic, islam, spiritual, spiritual leadership, sharia, job satisfaction, calling, workplace spirituality, muslim
+    <2012-2016.02 032> spirituality, islamic, islam, allah, spiritual, sharia, job satisfaction, calling, workplace spirituality, satisfaction
+    <2013-2017.05 034> spirituality, islamic, islam, allah, christian, sharia, jesus, spiritual, job satisfaction, calling
+    <2014-2018.08 028> ifis, spirituality, islamic, islam, christian, jesus, spiritual, calling, muslim, god
+    <2015-2019.08 028> ifis, spirituality, islamic, islam, spiritual, god, calling, allah, muslim, secular
+
+[D39] :: 2011-2015.11 -> 2012-2016.08 -> 2013-2017.13 -> 2014-2018.14 -> 2015-2019.15 (6)
+    See similar trends: D1: 80%, D2: 40%, D8: 20%, D12: 20%, D31: 40%
+    <2011-2015.11 160> csp, csr, ipo, responsible leadership, governance, environmental, disclosure, scandinavian, csr image, green
+    <2012-2016.08 020> csp, ipo, backed, level of csp, djsi, cfp, governance, divergence, patent, sustainability leadership
+    <2013-2017.13 024> csp, tmt, ipo, faultlines, csr, network, backed, licensing, tmts, divergence
+    <2014-2018.14 020> csp, tmt, ipo, faultlines, network, ceo, tmts, patent, tmt position, divergence
+    <2015-2019.15 206> csp, csr, slo, brand, smes, assurance, board, csr assurance, csr reporting, signaling
+
+[C1] :: 2000-2004.02 -> 2001-2005.05 -> 2002-2006.11 -> 2003-2007.10 -> 2004-2008.16 -> 2005-2009.13 (3)
+    See similar trends: D3: 33%
+    <2000-2004.02 077> patent, ntbfs, iprs, collaboration, swedish, park, dutch, patenting, latin, canon
+    <2001-2005.05 094> incubator, logistics, ntbfs, iso, project, park, smes, knowledge, dutch, environmental
+    <2002-2006.11 060> patent, linux, chalmers, software, music, genetic, piracy, copyright, pirated, softlifting
+    <2003-2007.10 024> spin, chalmers, park, parent firm, ntbfs, university, science, usos, parent, science park
+    <2004-2008.16 021> spin, university, lrd, park, knowledge, university of waterloo, beijing, pris, technology transfer, sponsored
+    <2005-2009.13 024> spin, university, spin offs, park, industry involvement, industry, knowledge, university of waterloo, technology transfer, pris
+
+[C2] :: 2000-2004.04 -> 2001-2005.05 -> 2002-2006.08 -> 2003-2007.11 -> 2004-2008.13 -> 2005-2009.16 -> 2006-2010.12 -> 2007-2011.14 -> 2008-2012.12 (19)
+    See similar trends: D6: 11%
+    <2000-2004.04 046> foresight, innovation, smes, biotech, venture, environmental, biotechnology, venture capital, regional, technology
+    <2001-2005.05 094> incubator, logistics, ntbfs, iso, project, park, smes, knowledge, dutch, environmental
+    <2002-2006.08 059> csr, logistics, citizenship, environmental, smes, corporate responsibility, gender, corporate citizenship, immigration, finnish
+    <2003-2007.11 097> csr, logistics, environmental, stakeholder, smes, citizenship, corporate responsibility, djsi, sustainability, ethical
+    <2004-2008.13 096> csr, csp, mutual fund, corporate identity, cfp, djsi, identity, sustainability, ethical, ethical investment
+    <2005-2009.16 166> csr, csp, brand, stakeholder, mncs, smes, sustainability, corporate identity, cfp, identity
+    <2006-2010.12 190> csr, brand, mncs, stakeholder, green, sport, smes, sustainability, corporate identity, mnc
+    <2007-2011.14 174> csp, csr, responsible leadership, djsi, sustainability, mncs, sport, smes, csr participation, mnc
+    <2008-2012.12 163> csp, csr, responsible leadership, mncs, sport, csr participation, smes, mnc, cfp, clothing
+
+[C3] :: 2000-2004.05 -> 2001-2005.05 -> 2002-2006.05 -> 2003-2007.05 -> 2004-2008.06 -> 2005-2009.14 (28)
+    <2000-2004.05 032> iso, project, knowledge, space, technology, technology transfer, transfer, codification, software, esa
+    <2001-2005.05 094> incubator, logistics, ntbfs, iso, project, park, smes, knowledge, dutch, environmental
+    <2002-2006.05 022> project, team, creative performance, empowering, organisational learning, organisational, proximity, budget, creative, radical innovation
+    <2003-2007.05 050> npd, industrial design, project, team, design, creative performance, toy, danish, leadership, audit
+    <2004-2008.06 024> tmt, underpricing, prestigious, team, ipo, behavioral integration, leadership, episodic, empowering, functional diversity
+    <2005-2009.14 067> jpim, npd, industrial design, project, tmt, underpricing, ipo, team, expertise diversity, diversity
+
+[C4] :: 2001-2005.06 -> 2002-2006.09 -> 2003-2007.08 -> 2004-2008.13 -> 2005-2009.16 -> 2006-2010.12 (6)
+    See similar trends: D8: 83%, D9: 33%
+    <2001-2005.06 097> privacy, code, climate, ethical, moral, electronic monitoring, idealism, scholarship, moral problem, consumer
+    <2002-2006.09 142> privacy, code, auditor, audit, ethical leadership, moral, board, ethical, integrity, electronic monitoring
+    <2003-2007.08 020> mutual fund, ethical, ethical investment, fund, incubator, investor, social, conventional, social responsibility, trading
+    <2004-2008.13 096> csr, csp, mutual fund, corporate identity, cfp, djsi, identity, sustainability, ethical, ethical investment
+    <2005-2009.16 166> csr, csp, brand, stakeholder, mncs, smes, sustainability, corporate identity, cfp, identity
+    <2006-2010.12 190> csr, brand, mncs, stakeholder, green, sport, smes, sustainability, corporate identity, mnc
+
+[C5] :: 2002-2006.00 -> 2003-2007.00 -> 2004-2008.01 -> 2005-2009.01 (26)
+    <2002-2006.00 020> amj, reviewer, manuscript, journal, tim, interesting, academy, qualitative, reviewing, qualitative research
+    <2003-2007.00 023> amj, reviewer, manuscript, interesting, academy, theory, qualitative, international management, qualitative research, editor
+    <2004-2008.01 025> amj, reviewer, lab, manuscript, interesting, theory, qualitative, qualitative research, international management, editor
+    <2005-2009.01 021> amj, reviewer, lab, manuscript, interesting, international management, evaluation form, journal, reply, editorial
+
+[C6] :: 2002-2006.03 -> 2003-2007.11 -> 2004-2008.14 -> 2005-2009.04 -> 2006-2010.04 -> 2007-2011.03 (23)
+    See similar trends: D12: 50%
+    <2002-2006.03 022> stakeholder, environmental, firm stakeholder, corporation, moral, contractual, stakeholder approach, stakeholder model, natural environment, stakeholder theory
+    <2003-2007.11 097> csr, logistics, environmental, stakeholder, smes, citizenship, corporate responsibility, djsi, sustainability, ethical
+    <2004-2008.14 022> stakeholder, stakeholder dialogue, stakeholder approach, natural environment, stakeholder engagement, stakeholder model, discourse, csr, dialogue, stockholder
+    <2005-2009.04 041> environmental, ocbs, power distance, fairness, procedural justice, nep, justice, design implementation, distributive justice, environmental innovation
+    <2006-2010.04 025> environmental, ocbs, environmental marketing, environmental disclosure, citizenship, disclosure, transparency, organizational trust, environmental innovation, emas
+    <2007-2011.03 037> environmental, ocbs, fairness, rawls, environmental marketing, justice, environmental disclosure, citizenship, disclosure, organizational trust
+
+[C7] :: 2002-2006.04 -> 2003-2007.01 -> 2004-2008.02 -> 2005-2009.15 -> 2006-2010.07 -> 2007-2011.04 (3)
+    <2002-2006.04 045> aristotle, tbe, ethical sensitivity, doctrine, telework, brand, bribery, moral, temptation, locus of control
+    <2003-2007.01 020> anomie, corruption, procurement, bribery, convention, nigeria, perceived corruption, public procurement, fdi, facilitating
+    <2004-2008.02 035> anomie, corruption, fdi, procurement, bribery, nigeria, convention, extemal, marketing function, written code
+    <2005-2009.15 031> corruption, bribery, fcpa, convention, nigeria, anomie, authority, perceived corruption, dunfee, bribe
+    <2006-2010.07 032> corruption, bribery, fcpa, convention, bpi, anomie, authority, dunfee, bribe, regulation
+    <2007-2011.04 036> corruption, bribery, fcpa, convention, bpi, anomie, authority, dunfee, corrupt, bribe
+
+[C8] :: 2004-2008.09 -> 2005-2009.18 -> 2006-2010.09 -> 2007-2011.10 -> 2008-2012.10 (8)
+    See similar trends: D9: 40%
+    <2004-2008.09 046> moral, audit, audit committee, moral intensity, moral problem, ethical, moral hypocrisy, moral imagination, committee, chent
+    <2005-2009.18 036> ethical culture, idealism, moral intensity, ethical, hotel, moral, audit, relativism, chartered, thai
+    <2006-2010.09 024> idealism, moral intensity, presor, hotel, ethical, relativism, chartered, thai, businesspeople, ethical judgment
+    <2007-2011.10 027> idealism, moral intensity, hotel, ethical, emotional intelligence, relativism, thai, chartered, ethical behavior, businesspeople
+    <2008-2012.10 023> idealism, ethical, pie, moral, relativism, thai, chartered, cev, businesspeople, stress
+
+[C9] :: 2005-2009.08 -> 2006-2010.03 -> 2007-2011.07 -> 2008-2012.06 (27)
+    <2005-2009.08 028> succession, downsizing, hrm, family, work family, nonfamily, dependence, training, quit, owner
+    <2006-2010.03 025> downsizing, family, work family, nonfamily, forgiveness, community, training, positive spillover, family business, csr
+    <2007-2011.07 024> downsizing, family, nonfamily, work family, community, csp, training, family business, positive spillover, informational justice
+    <2008-2012.06 021> family, work family, search breadth, community, csp, positive spillover, family business, nonfamily, csr, conflict
+
+[C10] :: 2008-2012.04 -> 2009-2013.06 -> 2010-2014.07 -> 2011-2015.04 (30)
+    <2008-2012.04 025> alliance, collective research, product innovation, absorptive, absorptive capacity, knowledge, technology alliance, technological distance, alliance portfolio, product innovation performance
+    <2009-2013.06 023> alliance, absorptive, absorptive capacity, knowledge, technology alliance, alliance portfolio, product innovation performance, external knowledge, seeker, matching
+    <2010-2014.07 024> alliance, coopetition, innovative capability, absorptive capacity, absorptive, technology alliance, alliance portfolio, board, appropriability regime, innovative
+    <2011-2015.04 021> alliance, coopetition, innovative capability, absorptive capacity, absorptive, smes, alliance portfolio, appropriability regime, board, appropriability
+
+[C11] :: 2009-2013.10 -> 2010-2014.11 -> 2011-2015.12 -> 2012-2016.10 -> 2013-2017.14 -> 2014-2018.15 -> 2015-2019.14 (21)
+    <2009-2013.10 020> brand, green, equity, brand trust, brand equity, csr, consumer innovativeness, product, social cause, global
+    <2010-2014.11 022> brand, green, equity, brand equity, green brand, brand trust, csr, corporate brand, csr communication, consumer innovativeness
+    <2011-2015.12 020> green, brand, csr, product brand, authenticity, brand trust, greenwash, green product, corporate brand, greening
+    <2012-2016.10 125> csr, age diversity, csr reporting, disclosure, gri, board, csr image, scandinavian, smes, green
+    <2013-2017.14 066> family, age diversity, board, sew, family ownership, confucianism, female, founder, family involvement, diversity
+    <2014-2018.15 075> family, age diversity, board, sew, incentive pay, confucianism, family ownership, ipo, founder, female
+    <2015-2019.14 063> tmt, family, ipo, sew, faultlines, incentive pay, founder, underpricing, stewardship, csr
+
+[C12] :: 2012-2016.00 -> 2013-2017.03 -> 2014-2018.04 -> 2015-2019.01 (55)
+    <2012-2016.00 026> entrepreneurial innovation, entrepreneurial, tpb, university, sct, eep, department, posttest, entrepreneurial intention, pbc
+    <2013-2017.03 027> entrepreneurial, university, tpb, sct, eep, entrepreneurial exposure, entrepreneurial passion, posttest, department, entrepreneurial intention
+    <2014-2018.04 049> ocb, entrepreneurial leadership, identity, passion, entrepreneurial, identity work, narrative, university, organizational identity, prior entrepreneurial
+    <2015-2019.01 067> bricolage, ocb, spinoff, empowerment, entrepreneurial leadership, identity, passion, entrepreneurial, identity work, university
+
+[C13] :: 2012-2016.03 -> 2013-2017.09 -> 2014-2018.12 -> 2015-2019.13 (14)
+    <2012-2016.03 021> care, value capture, social, behaviour, ethical consumption, collective social, consumption, moral intensity, caring, entrepreneurial motivation
+    <2013-2017.09 173> moral, leadership, upb, vignette, care, business, ocbs, ethical, ethical consumption, moral judgment
+    <2014-2018.12 038> moral, business, moral judgment, ethical, ethical sensitivity, ethical context, moral intensity, moral identity, ethical decision, ethical decision making
+    <2015-2019.13 066> moral, leadership, moral judgment, ethical leadership, dmn, ethical climate, hindrance, reflectiveness, ethical, moral intensity
+
+[C14] :: 2012-2016.10 -> 2013-2017.14 -> 2014-2018.15 -> 2015-2019.15 (14)
+    See similar trends: D31: 50%, D35: 50%, C11: 75%
+    <2012-2016.10 125> csr, age diversity, csr reporting, disclosure, gri, board, csr image, scandinavian, smes, green
+    <2013-2017.14 066> family, age diversity, board, sew, family ownership, confucianism, female, founder, family involvement, diversity
+    <2014-2018.15 075> family, age diversity, board, sew, incentive pay, confucianism, family ownership, ipo, founder, female
+    <2015-2019.15 206> csp, csr, slo, brand, smes, assurance, board, csr assurance, csr reporting, signaling
+
+[C15] :: 2012-2016.11 -> 2013-2017.14 -> 2014-2018.15 -> 2015-2019.15 (1)
+    See similar trends: D34: 75%
+    <2012-2016.11 039> family, board, family ownership, family involvement, csr, family support, nonfamily, sew, earnings management, harmony
+    <2013-2017.14 066> family, age diversity, board, sew, family ownership, confucianism, female, founder, family involvement, diversity
+    <2014-2018.15 075> family, age diversity, board, sew, incentive pay, confucianism, family ownership, ipo, founder, female
+    <2015-2019.15 206> csp, csr, slo, brand, smes, assurance, board, csr assurance, csr reporting, signaling
+
+[B1] :: 2000-2004.06 -> 2001-2005.02 -> 2002-2006.05 -> 2003-2007.05 (3)
+    See similar trends: D7: 75%
+    <2000-2004.06 032> npd, team, product development, product, project, proximity, interdependence, new product, cooperation, timeliness
+    <2001-2005.02 046> industrial design, npd, architecture, platform, interface, design, toy, product development, danish, research
+    <2002-2006.05 022> project, team, creative performance, empowering, organisational learning, organisational, proximity, budget, creative, radical innovation
+    <2003-2007.05 050> npd, industrial design, project, team, design, creative performance, toy, danish, leadership, audit
+
+[B2] :: 2003-2007.02 -> 2004-2008.07 -> 2005-2009.09 (22)
+    <2003-2007.02 031> incubator, biotech, cluster, ict, district, industrial district, ict adoption, malaysia, tenant, smes
+    <2004-2008.07 022> incubator, ict, lifecycle, ict adoption, triple helix, helix, district, tenant, triple, ipc
+    <2005-2009.09 020> incubator, ict, lifecycle, ict adoption, triple helix, helix, ntbfs, tenant, triple, university
+
+[B4] :: 2004-2008.09 -> 2005-2009.18 -> 2006-2010.05 (2)
+    See similar trends: D9: 67%, C8: 67%
+    <2004-2008.09 046> moral, audit, audit committee, moral intensity, moral problem, ethical, moral hypocrisy, moral imagination, committee, chent
+    <2005-2009.18 036> ethical culture, idealism, moral intensity, ethical, hotel, moral, audit, relativism, chartered, thai
+    <2006-2010.05 030> moral, aim, moral imagination, corporate governance, moral awareness, corporation, kant, moral hypocrisy, imagination, hypocrisy
+
+[B5] :: 2005-2009.17 -> 2006-2010.08 -> 2007-2011.14 -> 2008-2012.12 (2)
+    See similar trends: D22: 50%
+    <2005-2009.17 024> leadership, ethical leadership, climate, ethical climate, salesperson, ethical, ocb, leader, job satisfaction, anita
+    <2006-2010.08 059> ocb, leadership, misreporting, lmx, misconduct, ethical culture, ethical leadership, ethical, acme, climate
+    <2007-2011.14 174> csp, csr, responsible leadership, djsi, sustainability, mncs, sport, smes, csr participation, mnc
+    <2008-2012.12 163> csp, csr, responsible leadership, mncs, sport, csr participation, smes, mnc, cfp, clothing
+
+[B6] :: 2008-2012.03 -> 2009-2013.02 -> 2010-2014.03 (23)
+    <2008-2012.03 027> hrm, franchising, facebook, conflict, franchisees, cosmopolitan, franchisor, cosmopolitanism, recognition, franchisors
+    <2009-2013.02 024> hrm, franchising, conflict, franchisees, franchisor, cosmopolitan, facebook, cosmopolitanism, recognition, franchisors
+    <2010-2014.03 024> hrm, franchising, equality, conflict, trade union, franchisees, franchisor, facebook, recognition, franchisors
+
+[B7] :: 2007-2011.10 -> 2008-2012.13 -> 2009-2013.12 -> 2010-2014.13 (6)
+    See similar trends: D17: 75%, D27: 75%, C8: 25%
+    <2007-2011.10 027> idealism, moral intensity, hotel, ethical, emotional intelligence, relativism, thai, chartered, ethical behavior, businesspeople
+    <2008-2012.13 059> leadership, ethical culture, climate, ethical leadership, shared leadership, unethical, misreporting, ethical, unethical behavior, ethical climate
+    <2009-2013.12 080> leadership, ethical culture, ethical, ethical leadership, climate, unethical, misreporting, unethical behavior, ethical climate, transformative
+    <2010-2014.13 076> leadership, vignette, ethical, ethical leadership, climate, ethical culture, ethical behavior, ethical climate, moral intensity, transformative
+
+[B8] :: 2013-2017.12 -> 2014-2018.11 -> 2015-2019.05 (2)
+    See similar trends: D6: 67%, D37: 67%
+    <2013-2017.12 031> innovation, open innovation, process innovation, human capital, persistence, export, persistency, innovation output, external, discourse
+    <2014-2018.11 047> innovation, open innovation, process innovation, human capital, persistence, export, sourcing, persistency, product and process, micro
+    <2015-2019.05 034> open innovation, alliance, technological diversification, external knowledge, sourcing, technological, technological distance, technological overlap, interlock, focal firm
+
+[B9] :: 2013-2017.13 -> 2014-2018.15 -> 2015-2019.14 (1)
+    See similar trends: D1: 67%, D39: 33%
+    <2013-2017.13 024> csp, tmt, ipo, faultlines, csr, network, backed, licensing, tmts, divergence
+    <2014-2018.15 075> family, age diversity, board, sew, incentive pay, confucianism, family ownership, ipo, founder, female
+    <2015-2019.14 063> tmt, family, ipo, sew, faultlines, incentive pay, founder, underpricing, stewardship, csr
+
+[B10] :: 2013-2017.13 -> 2014-2018.16 -> 2015-2019.15 (1)
+    See similar trends: D1: 33%, D39: 67%
+    <2013-2017.13 024> csp, tmt, ipo, faultlines, csr, network, backed, licensing, tmts, divergence
+    <2014-2018.16 163> csr, smes, assurance, brand, stakeholder, csr assurance, csr reporting, signaling, gri, disclosure
+    <2015-2019.15 206> csp, csr, slo, brand, smes, assurance, board, csr assurance, csr reporting, signaling
+
+[A1] :: 2003-2007.12 -> 2004-2008.08 (16)
+    See similar trends: D9: 50%, D10: 50%, D17: 50%
+    <2003-2007.12 098> cheating, code, audit, moral, ethical, auditor, dit, business code, tier, accounting
+    <2004-2008.08 020> cheating, dit, tier, cmd, transitional, moral, care, misconduct, moral judgment, reasoning
+
+[A2] :: 2004-2008.00 -> 2005-2009.00 (8)
+    <2004-2008.00 023> privacy, whistleblowing, confucian, monitoring, online, consumer, efficacy, east, self, cultural orientation
+    <2005-2009.00 024> privacy, internet, monitoring, banking, efficacy, internet banking, online, purchasing, consumer, channel
+
+[A3] :: 2004-2008.04 -> 2005-2009.07 (14)
+    <2004-2008.04 020> alliance, nokia, alliance experience, motorola, cospecialized, joint, alliance performance, firm, partner, trust
+    <2005-2009.07 024> nokia, alliance, alliance experience, icts, motorola, knowledge, ict, knowledge creation, joint, alliance performance
+
+[A4] :: 2005-2009.02 -> 2006-2010.00 (22)
+    <2005-2009.02 022> sba, credit, high growth, growth, small business, debtor, banco, microfinance, loan, access to credit
+    <2006-2010.00 023> sba, high growth, credit, small business, growth, debtor, banco, microfinance, loan, access to credit
+
+[A5] :: 2008-2012.02 -> 2009-2013.01 (9)
+    <2008-2012.02 022> tqm, amt, innovation adoption, adoption, iso, intrafirm diffusion, diffusion, atm, intrafirm, provider
+    <2009-2013.01 021> amt, sdm, diffusion, movie, vsm, adoption, intrafirm diffusion, user, atm, social influence
+
+[A6] :: 2005-2009.08 -> 2006-2010.02 (5)
+    See similar trends: C9: 50%
+    <2005-2009.08 028> succession, downsizing, hrm, family, work family, nonfamily, dependence, training, quit, owner
+    <2006-2010.02 025> franchising, hrm, franchisors, discrimination, franchisees, franchisor, franchised, franchise, franchisee, quit
+
+[A7] :: 2009-2013.04 -> 2010-2014.09 (19)
+    <2009-2013.04 032> gambling, freeman, legitimacy, stakeholder, stakeholder theory, separation thesis, stakeholder management, firm, thesis, salience
+    <2010-2014.09 020> legitimacy, stakeholder, stakeholder theory, separation thesis, stakeholder management, thesis, salience, stakeholder salience, namibia, freeman
+
+[A8] :: 2009-2013.08 -> 2010-2014.08 (9)
+    <2009-2013.08 026> trust, cluster, social capital, network, wine, service, technology, tie, support, innovative activity
+    <2010-2014.08 024> authorship, cluster, network, morality, climate change, wine, inventor, climate, academic, service
+
+[A9] :: 2010-2014.02 -> 2011-2015.00 (11)
+    <2010-2014.02 023> silence, whistleblowing, voice, wrongdoing, implicit, whistleblower, peer reporting, truth, whistleblow, remain silent
+    <2011-2015.00 020> whistleblowing, wrongdoing, authentic leadership, authentic, organisation, whistleblower, attachment, prototypicality, reporting channel, peer reporting
+
+[A10] :: 2013-2017.02 -> 2014-2018.01 (20)
+    <2013-2017.02 022> ict, user, lego, lead user, semiconductor, mobile, ict use, rural, technological, green
+    <2014-2018.01 024> ict, user, lego, lead user, mobile, ict use, rural, diffusion, use value, technological
+
+[A11] :: 2013-2017.10 -> 2014-2018.09 (20)
+    <2013-2017.10 028> justice, fair trade, compassion, sdo, attachment, interpersonal justice, brand, justice rule, phase, justice climate
+    <2014-2018.09 022> justice, fair trade, sdo, interpersonal justice, attachment, brand, informational justice, justice rule, phase, justice climate
+
+[A12] :: 2013-2017.15 -> 2014-2018.02 (1)
+    See similar trends: D31: 50%, D33: 50%, D35: 50%
+    <2013-2017.15 153> csr, cfp, green, brand, assurance, csr reporting, disclosure, gri, proactive csr, scandinavian
+    <2014-2018.02 022> tunneling, cfp, cer, philanthropy, corporate philanthropy, privatization, corporate giving, buddhism, philanthropic giving, esi
