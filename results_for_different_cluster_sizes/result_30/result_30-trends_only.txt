@@ -1,0 +1,774 @@
+
+[D1] :: 2000-2004.00 -> 2001-2005.01 -> 2002-2006.00 -> 2003-2007.00 -> 2004-2008.00 (132)
+    <2000-2004.00 150> poverty, charter, income, afdc, schooling, family, school, earnings, college, consumption
+    <2001-2005.01 101> income, afdc, family, poverty, wage, work family, financing, relative deprivation, child support, college
+    <2002-2006.00 111> income, afdc, schooling, earnings, unemployment, wage, marriage, college, ssi, child
+    <2003-2007.00 136> teacher, income, program, abortion, afdc, crime, unemployment, wage, divorce, earnings
+    <2004-2008.00 089> income, earnings, divorce, noncognitive, wage, child support, schooling, college, marriage, health
+
+[D2] :: 2000-2004.04 -> 2001-2005.03 -> 2002-2006.06 -> 2003-2007.05 -> 2004-2008.06 -> 2005-2009.08 -> 2006-2010.13 -> 2007-2011.07 -> 2008-2012.11 -> 2009-2013.08 -> 2010-2014.07 -> 2011-2015.08 -> 2012-2016.11 -> 2013-2017.11 -> 2014-2018.16 -> 2015-2019.05 -> 2016-2020.11 -> 2017-2021.01 (218)
+    <2000-2004.04 072> patent, iprs, dutch, patenting, swedish, uspto, innovative performance, licensing, basic research, canon
+    <2001-2005.03 046> patent, export, software, patenting, exporting, citation, canon, radical, market information, genetic
+    <2002-2006.06 041> patent, chalmers, software, university, embedded software, science, canon, citation, research, patenting
+    <2003-2007.05 089> patent, nano, nanotechnology, chalmers, genetic, software, inventor, licensing, funding, tto
+    <2004-2008.06 041> patent, licensing, inventor, basic research, infringement, faculty, research, citation, patenting, license
+    <2005-2009.08 049> patent, examiner, licensing, inventor, keywords, epo, faculty, infringement, patenting, citation
+    <2006-2010.13 079> spin offs, patent, examiner, university, licensing, center, mae, inventor, industry involvement, faculty
+    <2007-2011.07 064> patent, examiner, licensing, patenting, inventive, inventor, cdma, faculty, infringement, epo
+    <2008-2012.11 058> patent, examiner, patenting, qualcomm, cdma, faculty, citation, diffusion, business method, sipo
+    <2009-2013.08 066> patent, university, patenting, usos, grace, opposition, convergence, cdma, sipo, uspto
+    <2010-2014.07 087> nanotechnology, patent, university, patenting, grace, opposition, licensing, cdma, sipo, convergence
+    <2011-2015.08 064> patent, patenting, opposition, sipo, uspto, roadmap, patent infringement, joint patent, infringement, patent term
+    <2012-2016.11 076> nanotechnology, patent, patenting, ipc, novelty, opposition, sipo, uspto, patent term, patent infringement
+    <2013-2017.11 062> patent, patenting, ipc, novelty, patent portfolio, opposition, patent filing, sipo, uspto, patent term
+    <2014-2018.16 048> patenting, patent, novelty, patent portfolio, patent filing, patent term, roadmap, lane, sipo, filing
+    <2015-2019.05 056> licensing, patent, npes, litigation, novelty, patent portfolio, patent filing, patent litigation, licensee, lane
+    <2016-2020.11 060> patent, licensing, npes, main path, technology transfer, litigation, novelty, patent portfolio, opposition, epo
+    <2017-2021.01 087> trm, patent, thicket, delphi, licensing, npes, ebay, ipc, financial development, patent portfolio
+
+[D3] :: 2000-2004.07 -> 2001-2005.04 -> 2002-2006.07 -> 2003-2007.11 -> 2004-2008.09 -> 2005-2009.11 -> 2006-2010.10 -> 2007-2011.10 -> 2008-2012.10 -> 2009-2013.10 -> 2010-2014.05 -> 2011-2015.06 -> 2012-2016.13 -> 2013-2017.10 -> 2014-2018.09 -> 2015-2019.09 -> 2016-2020.05 -> 2017-2021.02 (343)
+    <2000-2004.07 081> logistics, agile, agility, scm, contract logistics, supply chain, chain, learning, supply, per cent
+    <2001-2005.04 052> logistics, agile, scm, supply chain, chain, agility, risk management, supply, ericsson, risk
+    <2002-2006.07 055> logistics, scm, reverse logistics, supply chain, olympic, chain, spare, risk management, student, demand chain
+    <2003-2007.11 093> logistics, scm, flexibility, agent, reverse logistics, volume flexibility, risk, risk management, supply chain, olympic
+    <2004-2008.09 063> logistics, scm, flexibility, reverse logistics, logistics performance, supply network, chain, supply chain, olympic, manufacturing flexibility
+    <2005-2009.11 088> scm, logistics, flexibility, reverse logistics, sci, logistics performance, mix flexibility, environmental, supply network, transport
+    <2006-2010.10 105> rfid, scm, logistics, outsourcing, agility, reverse logistics, edi, sci, logistics performance, supply chain
+    <2007-2011.10 097> scm, crisis, reverse logistics, ict, edi, sci, supplier, supply chain, agility, interfirm
+    <2008-2012.10 129> rfid, scm, jit, tqm, crisis, lean, sscm, edi, ict, mixed
+    <2009-2013.10 130> erp, rfid, scm, lean, crisis, stockouts, auction, resilience, green, ict
+    <2010-2014.05 163> erp, rfid, scm, lean, green, ebay, stockouts, sci, auction, ict
+    <2011-2015.06 114> sscm, scm, green, rfid, sci, ict, sustainability, mixed, gscm, environmental management
+    <2012-2016.13 078> scf, scm, green, healthcare, supply, cyber, cloud, green innovation, supply chain, sustainability
+    <2013-2017.10 124> scf, scm, resilience, green, sci, disaster, scrm, agility, healthcare, emergency
+    <2014-2018.09 157> gscm, scrm, vmi, scf, scm, cloud, eco, resilience, disaster, logistics
+    <2015-2019.09 072> sscm, gscm, scrm, blockchain, scm, agility, bitcoin, supply, kmc, pricing
+    <2016-2020.05 051> resilience, disaster, compassion, reconstruction, resilience management, community resilience, swb, job satisfaction, disaster recovery, compassionate
+    <2017-2021.02 035> resilience, disaster, reconstruction, eoc, resilience management, community resilience, disaster recovery, efficacy, recovery, adversity
+
+[D4] :: 2000-2004.08 -> 2001-2005.06 -> 2002-2006.09 -> 2003-2007.10 -> 2004-2008.08 -> 2005-2009.12 -> 2006-2010.11 -> 2007-2011.11 -> 2008-2012.10 -> 2009-2013.10 -> 2010-2014.05 -> 2011-2015.06 -> 2012-2016.13 -> 2013-2017.10 -> 2014-2018.09 -> 2015-2019.09 (125)
+    <2000-2004.08 051> leadership, project, project management, risk management, risk, project success, project manager, learning, project owner, project group
+    <2001-2005.06 052> project, project management, project marketing, risk management, risk, project success, team, termination, owner, project manager
+    <2002-2006.09 049> project, project marketing, project management, decoding, project success, team, apm, project manager, project group, learning
+    <2003-2007.10 082> pmo, project, project marketing, project management, pmbok, overload, uncertainty, decoding, leadership, project success
+    <2004-2008.08 101> hrm, pmo, project, project management, project marketing, pmbok, risk, risk management, pmos, success
+    <2005-2009.12 138> hrm, project, pmo, stakeholder, project management, project strategy, multiple project, risk, pmbok, success
+    <2006-2010.11 146> hrm, pmo, leadership, project, stakeholder, project management, project based, project strategy, multiple project, pmbok
+    <2007-2011.11 161> ihrm, hrm, pmo, leadership, programme, project, programme management, distributed leadership, stakeholder, project management
+    <2008-2012.10 129> rfid, scm, jit, tqm, crisis, lean, sscm, edi, ict, mixed
+    <2009-2013.10 130> erp, rfid, scm, lean, crisis, stockouts, auction, resilience, green, ict
+    <2010-2014.05 163> erp, rfid, scm, lean, green, ebay, stockouts, sci, auction, ict
+    <2011-2015.06 114> sscm, scm, green, rfid, sci, ict, sustainability, mixed, gscm, environmental management
+    <2012-2016.13 078> scf, scm, green, healthcare, supply, cyber, cloud, green innovation, supply chain, sustainability
+    <2013-2017.10 124> scf, scm, resilience, green, sci, disaster, scrm, agility, healthcare, emergency
+    <2014-2018.09 157> gscm, scrm, vmi, scf, scm, cloud, eco, resilience, disaster, logistics
+    <2015-2019.09 072> sscm, gscm, scrm, blockchain, scm, agility, bitcoin, supply, kmc, pricing
+
+[D5] :: 2000-2004.09 -> 2001-2005.05 -> 2002-2006.08 -> 2003-2007.09 -> 2004-2008.07 -> 2005-2009.10 -> 2006-2010.12 -> 2007-2011.12 -> 2008-2012.13 -> 2009-2013.13 -> 2010-2014.10 -> 2011-2015.15 -> 2012-2016.15 -> 2013-2017.08 -> 2014-2018.12 -> 2015-2019.18 -> 2016-2020.17 -> 2017-2021.11 (362)
+    <2000-2004.09 075> learning, knowledge, technological learning, tacit, knowledge management, tacit knowledge, organizational learning, organisational, organisational learning, methodology
+    <2001-2005.05 076> knowledge, learning, tacit, knowledge management, knowledge sharing, tacit knowledge, sharing, organizational learning, leadership, software
+    <2002-2006.08 069> knowledge, learning, knowledge management, knowledge sharing, tacit knowledge, sharing, organizational learning, quadrant, tacit, tacitness
+    <2003-2007.09 207> nasa, programme, knowledge, ijv, learning, manufacturing strategy, klm, knowledge management, business process, npi
+    <2004-2008.07 136> alliance, knowledge, construction, knowledge management, tacit, tacit knowing, smes, alliance experience, knowledge sharing, tier
+    <2005-2009.10 198> alliance, knowledge, cultural, construction, knowledge management, web, tacit, tacit knowing, smes, learning
+    <2006-2010.12 151> knowledge, alliance, knowledge creation, construction, knowledge management, web, tacit knowing, tacit, smes, knowledge transfer
+    <2007-2011.12 199> knowledge, alliance, open innovation, knowledge creation, smes, innovation, construction, knowledge management, web, tacit knowing
+    <2008-2012.13 065> construction, knowledge, knowledge management, web, knowledge transfer, subsidiary, tacit, tacit knowledge, tacit knowing, transfer
+    <2009-2013.13 188> pkm, policy, subsidiary, knowledge creation, alliance, smes, open innovation, host unit, innovation, knowledge management
+    <2010-2014.10 158> ambidexterity, pkm, policy, subsidiary, design, knowledge creation, smes, innovation, knowledge management, knowledge
+    <2011-2015.15 042> knowledge management, knowledge, tacit, tacit knowing, tacit knowledge, knowledge transfer, project, transfer, knowledge manager, tacit knowledge sharing
+    <2012-2016.15 048> kios, knowledge, socialization, tacit, tacit knowledge, hrd, knowledge management, knowledge transfer, transfer, knowledge manager
+    <2013-2017.08 114> cop, alliance, trust, knowledge, knowledge sharing, socialization, ignorance, knowledge creation, lsp, kios
+    <2014-2018.12 098> cop, knowledge, trust, ignorance, socialization, knowledge sharing, knowledge breadth, knowledge creation, knowledge management, kios
+    <2015-2019.18 097> park, stp, knowledge, knowledge management, motivation, intrinsic motivation, ignorance, social capital, knowledge sharing, knowledge creation
+    <2016-2020.17 121> family, park, stp, knowledge, knowledge management, knowledge integration, intrinsic motivation, organizational learning, seci, knowledge sharing
+    <2017-2021.11 088> family, erp, knowledge, knowledge integration, intrinsic motivation, knowledge creation, motivation, knowledge sharing behaviour, erm, work family
+
+[D6] :: 2001-2005.02 -> 2002-2006.04 -> 2003-2007.07 -> 2004-2008.05 -> 2005-2009.06 -> 2006-2010.09 -> 2007-2011.12 -> 2008-2012.14 -> 2009-2013.13 -> 2010-2014.10 -> 2011-2015.11 -> 2012-2016.07 -> 2013-2017.09 -> 2014-2018.14 -> 2015-2019.08 (114)
+    <2001-2005.02 058> innovation, service, regional, biotechnology, biotech, networking, web, web service, technological, nigeria
+    <2002-2006.04 039> innovation, regional, software, networking, service, innovation process, taxonomy, concept, national, pavitt
+    <2003-2007.07 043> asp, outsourcing, innovation, regional, networking, service, innovation process, taxonomy, outsource, pavitt
+    <2004-2008.05 034> innovation, regional, knowledge sourcing, policy, persistence, service, innovation process, innovation intermediary, intermediary, outsourcing
+    <2005-2009.06 071> outsourcing, regional, bsc, innovation, smes, knowledge sourcing, policy, patenting, regional development, performance measurement
+    <2006-2010.09 033> smes, open innovation, innovation, innovation process, intermediary, outsource, outsourcing, innovation intermediary, service, cooperation
+    <2007-2011.12 199> knowledge, alliance, open innovation, knowledge creation, smes, innovation, construction, knowledge management, web, tacit knowing
+    <2008-2012.14 058> knowledge creation, smes, open innovation, innovation, knowledge, knowledge sharing, police, sharing, facilitator, consultancy
+    <2009-2013.13 188> pkm, policy, subsidiary, knowledge creation, alliance, smes, open innovation, host unit, innovation, knowledge management
+    <2010-2014.10 158> ambidexterity, pkm, policy, subsidiary, design, knowledge creation, smes, innovation, knowledge management, knowledge
+    <2011-2015.11 053> policy, design, innovation, product design, ipp, collaboration, innovation policy, regulation, product form, eeg
+    <2012-2016.07 069> innovation, regional innovation, policy, process innovation, policy mix, offshore wind, human capital, open innovation, innovation policy, exporting
+    <2013-2017.09 042> innovation, open innovation, regional innovation, policy, policy mix, offshore wind, innovation policy, persistency, persistence, wind
+    <2014-2018.14 252> evm, ppm, erp, acap, portfolio, pms, stakeholder, knowledge protection, governmentality, project
+    <2015-2019.08 044> crowdsourcing, ecosystem, open innovation, wikipedia, keywords, crowd, evp, solar, innovation ecosystem, crowdsourcing project
+
+[D7] :: 2002-2006.03 -> 2003-2007.03 -> 2004-2008.04 -> 2005-2009.04 -> 2006-2010.07 (45)
+    <2002-2006.03 061> csr, export, fdi, corruption, diversification, tfp, exporting, international diversification, mne, product diversification
+    <2003-2007.03 035> csr, corruption, diversification, relatedness, international diversification, electrical machinery, ois, assimilation capacity, technological diversification, geographic diversification
+    <2004-2008.04 051> csr, bribery, corruption, fdi, export performance, export, exporting, mnes, local, outward fdi
+    <2005-2009.04 044> csr, bribery, corruption, fdi, hmt, export, venturing, outward fdi, foreign, social
+    <2006-2010.07 033> bribery, corruption, fdi, export, export performance, hmt, exporting, outward fdi, foreign, control of corruption
+
+[D8] :: 2003-2007.04 -> 2004-2008.02 -> 2005-2009.01 -> 2006-2010.01 -> 2007-2011.03 (75)
+    <2003-2007.04 041> emotion, chapter, grounded theory, virtuality, sem, hlm, virtual, structuration, virtual work, theory
+    <2004-2008.02 067> emotion, chapter, affective, grounded theory, content analysis, virtuality, sem, qualitative, effect size, virtual
+    <2005-2009.01 046> chapter, grounded theory, sem, effect size, qualitative, theory, strategic management, qualitative research, grounded, book
+    <2006-2010.01 060> chapter, lgm, grounded theory, content analysis, interpretivist, cfa, sem, qualitative, effect size, theory
+    <2007-2011.03 080> procurement, chapter, online, content analysis, multivariate, internet, clarke, public procurement, qualitative, transformative
+
+[D9] :: 2003-2007.08 -> 2004-2008.07 -> 2005-2009.10 -> 2006-2010.12 -> 2007-2011.12 -> 2008-2012.13 -> 2009-2013.13 -> 2010-2014.10 -> 2011-2015.15 -> 2012-2016.15 -> 2013-2017.08 -> 2014-2018.12 -> 2015-2019.18 -> 2016-2020.17 -> 2017-2021.11 (27)
+    <2003-2007.08 033> alliance, singapore, interpartner, alliance experience, legitimacy, eco, learning intent, cospecialized, joint, alliance management
+    <2004-2008.07 136> alliance, knowledge, construction, knowledge management, tacit, tacit knowing, smes, alliance experience, knowledge sharing, tier
+    <2005-2009.10 198> alliance, knowledge, cultural, construction, knowledge management, web, tacit, tacit knowing, smes, learning
+    <2006-2010.12 151> knowledge, alliance, knowledge creation, construction, knowledge management, web, tacit knowing, tacit, smes, knowledge transfer
+    <2007-2011.12 199> knowledge, alliance, open innovation, knowledge creation, smes, innovation, construction, knowledge management, web, tacit knowing
+    <2008-2012.13 065> construction, knowledge, knowledge management, web, knowledge transfer, subsidiary, tacit, tacit knowledge, tacit knowing, transfer
+    <2009-2013.13 188> pkm, policy, subsidiary, knowledge creation, alliance, smes, open innovation, host unit, innovation, knowledge management
+    <2010-2014.10 158> ambidexterity, pkm, policy, subsidiary, design, knowledge creation, smes, innovation, knowledge management, knowledge
+    <2011-2015.15 042> knowledge management, knowledge, tacit, tacit knowing, tacit knowledge, knowledge transfer, project, transfer, knowledge manager, tacit knowledge sharing
+    <2012-2016.15 048> kios, knowledge, socialization, tacit, tacit knowledge, hrd, knowledge management, knowledge transfer, transfer, knowledge manager
+    <2013-2017.08 114> cop, alliance, trust, knowledge, knowledge sharing, socialization, ignorance, knowledge creation, lsp, kios
+    <2014-2018.12 098> cop, knowledge, trust, ignorance, socialization, knowledge sharing, knowledge breadth, knowledge creation, knowledge management, kios
+    <2015-2019.18 097> park, stp, knowledge, knowledge management, motivation, intrinsic motivation, ignorance, social capital, knowledge sharing, knowledge creation
+    <2016-2020.17 121> family, park, stp, knowledge, knowledge management, knowledge integration, intrinsic motivation, organizational learning, seci, knowledge sharing
+    <2017-2021.11 088> family, erp, knowledge, knowledge integration, intrinsic motivation, knowledge creation, motivation, knowledge sharing behaviour, erm, work family
+
+[D10] :: 2003-2007.11 -> 2004-2008.08 -> 2005-2009.10 -> 2006-2010.12 -> 2007-2011.12 -> 2008-2012.13 (2)
+    See similar trends: D3: 17%, D11: 33%
+    <2003-2007.11 093> logistics, scm, flexibility, agent, reverse logistics, volume flexibility, risk, risk management, supply chain, olympic
+    <2004-2008.08 101> hrm, pmo, project, project management, project marketing, pmbok, risk, risk management, pmos, success
+    <2005-2009.10 198> alliance, knowledge, cultural, construction, knowledge management, web, tacit, tacit knowing, smes, learning
+    <2006-2010.12 151> knowledge, alliance, knowledge creation, construction, knowledge management, web, tacit knowing, tacit, smes, knowledge transfer
+    <2007-2011.12 199> knowledge, alliance, open innovation, knowledge creation, smes, innovation, construction, knowledge management, web, tacit knowing
+    <2008-2012.13 065> construction, knowledge, knowledge management, web, knowledge transfer, subsidiary, tacit, tacit knowledge, tacit knowing, transfer
+
+[D11] :: 2003-2007.11 -> 2004-2008.08 -> 2005-2009.12 -> 2006-2010.11 -> 2007-2011.11 -> 2008-2012.10 -> 2009-2013.10 -> 2010-2014.05 -> 2011-2015.06 (9)
+    See similar trends: D3: 56%
+    <2003-2007.11 093> logistics, scm, flexibility, agent, reverse logistics, volume flexibility, risk, risk management, supply chain, olympic
+    <2004-2008.08 101> hrm, pmo, project, project management, project marketing, pmbok, risk, risk management, pmos, success
+    <2005-2009.12 138> hrm, project, pmo, stakeholder, project management, project strategy, multiple project, risk, pmbok, success
+    <2006-2010.11 146> hrm, pmo, leadership, project, stakeholder, project management, project based, project strategy, multiple project, pmbok
+    <2007-2011.11 161> ihrm, hrm, pmo, leadership, programme, project, programme management, distributed leadership, stakeholder, project management
+    <2008-2012.10 129> rfid, scm, jit, tqm, crisis, lean, sscm, edi, ict, mixed
+    <2009-2013.10 130> erp, rfid, scm, lean, crisis, stockouts, auction, resilience, green, ict
+    <2010-2014.05 163> erp, rfid, scm, lean, green, ebay, stockouts, sci, auction, ict
+    <2011-2015.06 114> sscm, scm, green, rfid, sci, ict, sustainability, mixed, gscm, environmental management
+
+[D12] :: 2004-2008.07 -> 2005-2009.10 -> 2006-2010.12 -> 2007-2011.12 -> 2008-2012.14 -> 2009-2013.13 -> 2010-2014.10 -> 2011-2015.11 -> 2012-2016.07 -> 2013-2017.09 -> 2014-2018.14 -> 2015-2019.08 (19)
+    See similar trends: D5: 50%, D9: 50%
+    <2004-2008.07 136> alliance, knowledge, construction, knowledge management, tacit, tacit knowing, smes, alliance experience, knowledge sharing, tier
+    <2005-2009.10 198> alliance, knowledge, cultural, construction, knowledge management, web, tacit, tacit knowing, smes, learning
+    <2006-2010.12 151> knowledge, alliance, knowledge creation, construction, knowledge management, web, tacit knowing, tacit, smes, knowledge transfer
+    <2007-2011.12 199> knowledge, alliance, open innovation, knowledge creation, smes, innovation, construction, knowledge management, web, tacit knowing
+    <2008-2012.14 058> knowledge creation, smes, open innovation, innovation, knowledge, knowledge sharing, police, sharing, facilitator, consultancy
+    <2009-2013.13 188> pkm, policy, subsidiary, knowledge creation, alliance, smes, open innovation, host unit, innovation, knowledge management
+    <2010-2014.10 158> ambidexterity, pkm, policy, subsidiary, design, knowledge creation, smes, innovation, knowledge management, knowledge
+    <2011-2015.11 053> policy, design, innovation, product design, ipp, collaboration, innovation policy, regulation, product form, eeg
+    <2012-2016.07 069> innovation, regional innovation, policy, process innovation, policy mix, offshore wind, human capital, open innovation, innovation policy, exporting
+    <2013-2017.09 042> innovation, open innovation, regional innovation, policy, policy mix, offshore wind, innovation policy, persistency, persistence, wind
+    <2014-2018.14 252> evm, ppm, erp, acap, portfolio, pms, stakeholder, knowledge protection, governmentality, project
+    <2015-2019.08 044> crowdsourcing, ecosystem, open innovation, wikipedia, keywords, crowd, evp, solar, innovation ecosystem, crowdsourcing project
+
+[D13] :: 2004-2008.08 -> 2005-2009.12 -> 2006-2010.11 -> 2007-2011.11 -> 2008-2012.12 -> 2009-2013.11 -> 2010-2014.08 -> 2011-2015.13 -> 2012-2016.16 -> 2013-2017.12 -> 2014-2018.14 -> 2015-2019.20 -> 2016-2020.19 -> 2017-2021.11 (277)
+    See similar trends: D4: 29%
+    <2004-2008.08 101> hrm, pmo, project, project management, project marketing, pmbok, risk, risk management, pmos, success
+    <2005-2009.12 138> hrm, project, pmo, stakeholder, project management, project strategy, multiple project, risk, pmbok, success
+    <2006-2010.11 146> hrm, pmo, leadership, project, stakeholder, project management, project based, project strategy, multiple project, pmbok
+    <2007-2011.11 161> ihrm, hrm, pmo, leadership, programme, project, programme management, distributed leadership, stakeholder, project management
+    <2008-2012.12 151> hrm, leadership, programme, project, change management, leadership development, programme management, distributed leadership, stakeholder, leader
+    <2009-2013.11 094> career, programme, programme management, change management, csfs, project management, stakeholder, project, kpis, project based
+    <2010-2014.08 195> npd, programme, portfolio, team, ppm, nuclear, change management, governance, openness, csfs
+    <2011-2015.13 133> ppm, portfolio, stakeholder, change management, nuclear, governance, csfs, front end, risk management, agile
+    <2012-2016.16 234> erp, lean, mncs, ppm, portfolio, stakeholder, change management, subsidiary, project, governance
+    <2013-2017.12 173> erp, lean, ppm, portfolio, stakeholder, governmentality, project, risk management, accountability, project management
+    <2014-2018.14 252> evm, ppm, erp, acap, portfolio, pms, stakeholder, knowledge protection, governmentality, project
+    <2015-2019.20 221> ppm, erp, certification, megaprojects, pms, stakeholder, governmentality, sustainability, project, msr
+    <2016-2020.19 134> ppm, storytelling, certification, megaprojects, sustainability, international development, stakeholder, accountability, project, msr
+    <2017-2021.11 088> family, erp, knowledge, knowledge integration, intrinsic motivation, knowledge creation, motivation, knowledge sharing behaviour, erm, work family
+
+[D14] :: 2005-2009.07 -> 2006-2010.08 -> 2007-2011.09 -> 2008-2012.09 -> 2009-2013.09 -> 2010-2014.08 -> 2011-2015.07 -> 2012-2016.12 -> 2013-2017.13 -> 2014-2018.15 -> 2015-2019.14 -> 2016-2020.08 (113)
+    <2005-2009.07 036> jpim, npd, teamwork, team, team learning, creative performance, danish, downsizing, usage, anxiety
+    <2006-2010.08 054> jpim, npd, modularity, modularization, team, product modularity, global npd, team learning, product architecture, creative performance
+    <2007-2011.09 052> jpim, npd, creativity, modularity, product modularity, global npd, team, team learning, climate, planning
+    <2008-2012.09 042> npd, jpim, team, climate, cohesiveness, alignment, strategic planning, information, product creativity, usage
+    <2009-2013.09 046> npd, creativity, openness, team, climate, cohesiveness, project, strategic planning, information, alignment
+    <2010-2014.08 195> npd, programme, portfolio, team, ppm, nuclear, change management, governance, openness, csfs
+    <2011-2015.07 035> npd, team, marketing, creativity, npd portfolio, marketing department, team member, portfolio, strategic planning, information
+    <2012-2016.12 057> npd, team, sustainability, creativity, npd portfolio, supplier, power, patent, marketing, marketing department
+    <2013-2017.13 057> npd, licensing, sustainability, csfs, creativity, npd portfolio, supervision, licensee, npd success, project
+    <2014-2018.15 048> npd, licensing, sustainability, npd portfolio, csfs, licensee, npd success, project, portfolio, solution information
+    <2015-2019.14 032> npd, cycle time, supplier, npd success, crisis, npd portfolio, collective efficacy, opportunism, portfolio planning, solution information
+    <2016-2020.08 049> npd, acap, strategic flexibility, cycle time, csc, sme, npd success, organizational memory, customer participation, interfirm
+
+[D15] :: 2006-2010.05 -> 2007-2011.04 -> 2008-2012.06 -> 2009-2013.04 -> 2010-2014.06 -> 2011-2015.09 -> 2012-2016.08 -> 2013-2017.05 -> 2014-2018.06 -> 2015-2019.16 -> 2016-2020.17 -> 2017-2021.11 (105)
+    <2006-2010.05 036> vcs, ipo, prestigious, board, underpricing, ceo, executive pay, founder, compensation, board effectiveness
+    <2007-2011.04 084> family, governance, tmt, board, work family, relational governance, ceo, corporate governance, interdependence, asset specificity
+    <2008-2012.06 130> family, ipo, amj, governance, tmt, work life, happiness, board, work family, underpricing
+    <2009-2013.04 083> family, work engagement, governance, board, happiness, tmt, family involvement, work family, potency, ceo
+    <2010-2014.06 056> family, tmt, family involvement, ceo, board, lone, tmt board, centrality, organizational identification, enrichment
+    <2011-2015.09 062> family, tmt, entrepreneurial, family involvement, ceo, board, lone founder, university, career horizon, centrality
+    <2012-2016.08 035> family, exit, entrepreneurial, family involvement, career horizon, enrichment, household, ups, centrality, noneconomic
+    <2013-2017.05 037> family, exit, motivation, entrepreneurial, career horizon, intrinsic motivation, household, enrichment, wfi, ups
+    <2014-2018.06 099> tmt, family, exit, ipo, retirement, ceo, pep, lgbt, activism, board
+    <2015-2019.16 031> family, exit, sew, stewardship, founder, household, family business, tmt, nonfamily, noneconomic
+    <2016-2020.17 121> family, park, stp, knowledge, knowledge management, knowledge integration, intrinsic motivation, organizational learning, seci, knowledge sharing
+    <2017-2021.11 088> family, erp, knowledge, knowledge integration, intrinsic motivation, knowledge creation, motivation, knowledge sharing behaviour, erm, work family
+
+[D16] :: 2006-2010.06 -> 2007-2011.04 -> 2008-2012.06 -> 2009-2013.04 -> 2010-2014.06 -> 2011-2015.09 -> 2012-2016.08 -> 2013-2017.05 -> 2014-2018.06 -> 2015-2019.16 -> 2016-2020.17 -> 2017-2021.11 (42)
+    <2006-2010.06 053> tmt, family, governance, relational governance, corporate governance, interdependence, stewardship, tmt board, ceo, team
+    <2007-2011.04 084> family, governance, tmt, board, work family, relational governance, ceo, corporate governance, interdependence, asset specificity
+    <2008-2012.06 130> family, ipo, amj, governance, tmt, work life, happiness, board, work family, underpricing
+    <2009-2013.04 083> family, work engagement, governance, board, happiness, tmt, family involvement, work family, potency, ceo
+    <2010-2014.06 056> family, tmt, family involvement, ceo, board, lone, tmt board, centrality, organizational identification, enrichment
+    <2011-2015.09 062> family, tmt, entrepreneurial, family involvement, ceo, board, lone founder, university, career horizon, centrality
+    <2012-2016.08 035> family, exit, entrepreneurial, family involvement, career horizon, enrichment, household, ups, centrality, noneconomic
+    <2013-2017.05 037> family, exit, motivation, entrepreneurial, career horizon, intrinsic motivation, household, enrichment, wfi, ups
+    <2014-2018.06 099> tmt, family, exit, ipo, retirement, ceo, pep, lgbt, activism, board
+    <2015-2019.16 031> family, exit, sew, stewardship, founder, household, family business, tmt, nonfamily, noneconomic
+    <2016-2020.17 121> family, park, stp, knowledge, knowledge management, knowledge integration, intrinsic motivation, organizational learning, seci, knowledge sharing
+    <2017-2021.11 088> family, erp, knowledge, knowledge integration, intrinsic motivation, knowledge creation, motivation, knowledge sharing behaviour, erm, work family
+
+[D17] :: 2006-2010.06 -> 2007-2011.04 -> 2008-2012.06 -> 2009-2013.04 -> 2010-2014.08 -> 2011-2015.13 -> 2012-2016.16 -> 2013-2017.12 -> 2014-2018.14 -> 2015-2019.20 -> 2016-2020.19 -> 2017-2021.14 (56)
+    <2006-2010.06 053> tmt, family, governance, relational governance, corporate governance, interdependence, stewardship, tmt board, ceo, team
+    <2007-2011.04 084> family, governance, tmt, board, work family, relational governance, ceo, corporate governance, interdependence, asset specificity
+    <2008-2012.06 130> family, ipo, amj, governance, tmt, work life, happiness, board, work family, underpricing
+    <2009-2013.04 083> family, work engagement, governance, board, happiness, tmt, family involvement, work family, potency, ceo
+    <2010-2014.08 195> npd, programme, portfolio, team, ppm, nuclear, change management, governance, openness, csfs
+    <2011-2015.13 133> ppm, portfolio, stakeholder, change management, nuclear, governance, csfs, front end, risk management, agile
+    <2012-2016.16 234> erp, lean, mncs, ppm, portfolio, stakeholder, change management, subsidiary, project, governance
+    <2013-2017.12 173> erp, lean, ppm, portfolio, stakeholder, governmentality, project, risk management, accountability, project management
+    <2014-2018.14 252> evm, ppm, erp, acap, portfolio, pms, stakeholder, knowledge protection, governmentality, project
+    <2015-2019.20 221> ppm, erp, certification, megaprojects, pms, stakeholder, governmentality, sustainability, project, msr
+    <2016-2020.19 134> ppm, storytelling, certification, megaprojects, sustainability, international development, stakeholder, accountability, project, msr
+    <2017-2021.14 089> ppm, megaprojects, sustainability, international development, stakeholder, accountability, project, msr, spm, megaproject
+
+[D18] :: 2006-2010.11 -> 2007-2011.11 -> 2008-2012.10 -> 2009-2013.07 -> 2010-2014.08 -> 2011-2015.13 -> 2012-2016.16 -> 2013-2017.12 -> 2014-2018.14 -> 2015-2019.20 -> 2016-2020.19 -> 2017-2021.14 (50)
+    See similar trends: D4: 25%, D13: 75%
+    <2006-2010.11 146> hrm, pmo, leadership, project, stakeholder, project management, project based, project strategy, multiple project, pmbok
+    <2007-2011.11 161> ihrm, hrm, pmo, leadership, programme, project, programme management, distributed leadership, stakeholder, project management
+    <2008-2012.10 129> rfid, scm, jit, tqm, crisis, lean, sscm, edi, ict, mixed
+    <2009-2013.07 040> trm, ppm, roadmaps, front end, process development, roadmap, roadmapping, risk, risk management, relationship value
+    <2010-2014.08 195> npd, programme, portfolio, team, ppm, nuclear, change management, governance, openness, csfs
+    <2011-2015.13 133> ppm, portfolio, stakeholder, change management, nuclear, governance, csfs, front end, risk management, agile
+    <2012-2016.16 234> erp, lean, mncs, ppm, portfolio, stakeholder, change management, subsidiary, project, governance
+    <2013-2017.12 173> erp, lean, ppm, portfolio, stakeholder, governmentality, project, risk management, accountability, project management
+    <2014-2018.14 252> evm, ppm, erp, acap, portfolio, pms, stakeholder, knowledge protection, governmentality, project
+    <2015-2019.20 221> ppm, erp, certification, megaprojects, pms, stakeholder, governmentality, sustainability, project, msr
+    <2016-2020.19 134> ppm, storytelling, certification, megaprojects, sustainability, international development, stakeholder, accountability, project, msr
+    <2017-2021.14 089> ppm, megaprojects, sustainability, international development, stakeholder, accountability, project, msr, spm, megaproject
+
+[D19] :: 2006-2010.11 -> 2007-2011.11 -> 2008-2012.12 -> 2009-2013.12 -> 2010-2014.09 -> 2011-2015.10 -> 2012-2016.05 (52)
+    See similar trends: D4: 29%, D11: 29%, D13: 43%, D18: 29%
+    <2006-2010.11 146> hrm, pmo, leadership, project, stakeholder, project management, project based, project strategy, multiple project, pmbok
+    <2007-2011.11 161> ihrm, hrm, pmo, leadership, programme, project, programme management, distributed leadership, stakeholder, project management
+    <2008-2012.12 151> hrm, leadership, programme, project, change management, leadership development, programme management, distributed leadership, stakeholder, leader
+    <2009-2013.12 030> leadership, identity, leadership development, distributed leadership, leader, authentic, project, collective memory, organizational identity, prototype
+    <2010-2014.09 036> leadership, identity, leadership development, charismatic, distributed leadership, resistance, authentic, project, identity work, collective memory
+    <2011-2015.10 053> leadership, identity, leadership development, charismatic, pms, distributed leadership, identity work, pregnant, leader, pmo
+    <2012-2016.05 037> identity, pms, identity work, category, pmo, pregnancy, pregnant, categorization, pmos, collective memory
+
+[D20] :: 2006-2010.12 -> 2007-2011.12 -> 2008-2012.14 -> 2009-2013.13 -> 2010-2014.11 -> 2011-2015.12 -> 2012-2016.14 -> 2013-2017.08 -> 2014-2018.12 -> 2015-2019.18 -> 2016-2020.17 -> 2017-2021.11 (65)
+    See similar trends: D5: 67%, D9: 67%
+    <2006-2010.12 151> knowledge, alliance, knowledge creation, construction, knowledge management, web, tacit knowing, tacit, smes, knowledge transfer
+    <2007-2011.12 199> knowledge, alliance, open innovation, knowledge creation, smes, innovation, construction, knowledge management, web, tacit knowing
+    <2008-2012.14 058> knowledge creation, smes, open innovation, innovation, knowledge, knowledge sharing, police, sharing, facilitator, consultancy
+    <2009-2013.13 188> pkm, policy, subsidiary, knowledge creation, alliance, smes, open innovation, host unit, innovation, knowledge management
+    <2010-2014.11 030> knowledge sharing, change readiness, knowledge, readiness, sharing, police, goal orientation, share knowledge, project, knowledge management
+    <2011-2015.12 038> knowledge sharing, ignorance, change readiness, knowledge, readiness, sharing, knowledge acquisition, job engagement, organisation, share knowledge
+    <2012-2016.14 057> cop, trust, knowledge sharing, ignorance, change readiness, readiness, community, generosity, knowledge, organisational
+    <2013-2017.08 114> cop, alliance, trust, knowledge, knowledge sharing, socialization, ignorance, knowledge creation, lsp, kios
+    <2014-2018.12 098> cop, knowledge, trust, ignorance, socialization, knowledge sharing, knowledge breadth, knowledge creation, knowledge management, kios
+    <2015-2019.18 097> park, stp, knowledge, knowledge management, motivation, intrinsic motivation, ignorance, social capital, knowledge sharing, knowledge creation
+    <2016-2020.17 121> family, park, stp, knowledge, knowledge management, knowledge integration, intrinsic motivation, organizational learning, seci, knowledge sharing
+    <2017-2021.11 088> family, erp, knowledge, knowledge integration, intrinsic motivation, knowledge creation, motivation, knowledge sharing behaviour, erm, work family
+
+[D21] :: 2007-2011.05 -> 2008-2012.08 -> 2009-2013.06 -> 2010-2014.03 -> 2011-2015.04 -> 2012-2016.00 -> 2013-2017.10 -> 2014-2018.09 -> 2015-2019.09 (86)
+    <2007-2011.05 073> delphi, sustainability, foresight, ambidexterity, scenario, mlp, energy, icts, standardisation, corporate foresight
+    <2008-2012.08 073> delphi, foresight, sustainability, forest, ambidexterity, scenario, mlp, icts, standardisation, ict development
+    <2009-2013.06 092> delphi, foresight, ambidexterity, sustainability, forest, transport, scenario, strategic foresight, icts, ict development
+    <2010-2014.03 061> delphi, foresight, sustainability, emergency, strategic foresight, disaster, standardisation, corporate foresight, sustainable development, corporate sustainability
+    <2011-2015.04 080> trm, foresight, delphi, roadmapping, emergency, roadmaps, transport, public transport, strategic foresight, disaster
+    <2012-2016.00 038> ewom, delphi, policy delphi, backcasting, emergency, public participation, disaster, twitter, sim, communicative
+    <2013-2017.10 124> scf, scm, resilience, green, sci, disaster, scrm, agility, healthcare, emergency
+    <2014-2018.09 157> gscm, scrm, vmi, scf, scm, cloud, eco, resilience, disaster, logistics
+    <2015-2019.09 072> sscm, gscm, scrm, blockchain, scm, agility, bitcoin, supply, kmc, pricing
+
+[D22] :: 2007-2011.06 -> 2008-2012.13 -> 2009-2013.13 -> 2010-2014.10 -> 2011-2015.14 -> 2012-2016.16 -> 2013-2017.12 (30)
+    <2007-2011.06 037> institutional, subsidiary, mncs, mnes, mnc, mne, diamond, project, greenfield, knowledge
+    <2008-2012.13 065> construction, knowledge, knowledge management, web, knowledge transfer, subsidiary, tacit, tacit knowledge, tacit knowing, transfer
+    <2009-2013.13 188> pkm, policy, subsidiary, knowledge creation, alliance, smes, open innovation, host unit, innovation, knowledge management
+    <2010-2014.10 158> ambidexterity, pkm, policy, subsidiary, design, knowledge creation, smes, innovation, knowledge management, knowledge
+    <2011-2015.14 034> subsidiary, mncs, absorptive capacity, absorptive, mnc, headquarters, alliance, supplier, project, alliance portfolio
+    <2012-2016.16 234> erp, lean, mncs, ppm, portfolio, stakeholder, change management, subsidiary, project, governance
+    <2013-2017.12 173> erp, lean, ppm, portfolio, stakeholder, governmentality, project, risk management, accountability, project management
+
+[D23] :: 2007-2011.12 -> 2008-2012.14 -> 2009-2013.13 -> 2010-2014.10 -> 2011-2015.15 -> 2012-2016.15 -> 2013-2017.08 -> 2014-2018.12 -> 2015-2019.18 -> 2016-2020.17 -> 2017-2021.11 (7)
+    See similar trends: D5: 91%, D6: 36%, D9: 91%, D12: 36%, D20: 73%
+    <2007-2011.12 199> knowledge, alliance, open innovation, knowledge creation, smes, innovation, construction, knowledge management, web, tacit knowing
+    <2008-2012.14 058> knowledge creation, smes, open innovation, innovation, knowledge, knowledge sharing, police, sharing, facilitator, consultancy
+    <2009-2013.13 188> pkm, policy, subsidiary, knowledge creation, alliance, smes, open innovation, host unit, innovation, knowledge management
+    <2010-2014.10 158> ambidexterity, pkm, policy, subsidiary, design, knowledge creation, smes, innovation, knowledge management, knowledge
+    <2011-2015.15 042> knowledge management, knowledge, tacit, tacit knowing, tacit knowledge, knowledge transfer, project, transfer, knowledge manager, tacit knowledge sharing
+    <2012-2016.15 048> kios, knowledge, socialization, tacit, tacit knowledge, hrd, knowledge management, knowledge transfer, transfer, knowledge manager
+    <2013-2017.08 114> cop, alliance, trust, knowledge, knowledge sharing, socialization, ignorance, knowledge creation, lsp, kios
+    <2014-2018.12 098> cop, knowledge, trust, ignorance, socialization, knowledge sharing, knowledge breadth, knowledge creation, knowledge management, kios
+    <2015-2019.18 097> park, stp, knowledge, knowledge management, motivation, intrinsic motivation, ignorance, social capital, knowledge sharing, knowledge creation
+    <2016-2020.17 121> family, park, stp, knowledge, knowledge management, knowledge integration, intrinsic motivation, organizational learning, seci, knowledge sharing
+    <2017-2021.11 088> family, erp, knowledge, knowledge integration, intrinsic motivation, knowledge creation, motivation, knowledge sharing behaviour, erm, work family
+
+[D24] :: 2008-2012.07 -> 2009-2013.10 -> 2010-2014.05 -> 2011-2015.06 -> 2012-2016.13 -> 2013-2017.10 -> 2014-2018.09 -> 2015-2019.09 -> 2016-2020.22 -> 2017-2021.15 (58)
+    <2008-2012.07 036> iso, policy, transition, environmental, evolutionary, regulation, innovation, design, design policy, environmental innovation
+    <2009-2013.10 130> erp, rfid, scm, lean, crisis, stockouts, auction, resilience, green, ict
+    <2010-2014.05 163> erp, rfid, scm, lean, green, ebay, stockouts, sci, auction, ict
+    <2011-2015.06 114> sscm, scm, green, rfid, sci, ict, sustainability, mixed, gscm, environmental management
+    <2012-2016.13 078> scf, scm, green, healthcare, supply, cyber, cloud, green innovation, supply chain, sustainability
+    <2013-2017.10 124> scf, scm, resilience, green, sci, disaster, scrm, agility, healthcare, emergency
+    <2014-2018.09 157> gscm, scrm, vmi, scf, scm, cloud, eco, resilience, disaster, logistics
+    <2015-2019.09 072> sscm, gscm, scrm, blockchain, scm, agility, bitcoin, supply, kmc, pricing
+    <2016-2020.22 055> scres, scrm, blockchain, scm, supply, pricing, agility, trust, supply chain, ericsson
+    <2017-2021.15 063> scres, gscm, scrm, blockchain, corruption, scm, subsidiary, trust, agility, supply chain
+
+[D25] :: 2008-2012.07 -> 2009-2013.13 -> 2010-2014.10 -> 2011-2015.11 -> 2012-2016.07 -> 2013-2017.09 -> 2014-2018.07 -> 2015-2019.11 -> 2016-2020.14 -> 2017-2021.10 (69)
+    <2008-2012.07 036> iso, policy, transition, environmental, evolutionary, regulation, innovation, design, design policy, environmental innovation
+    <2009-2013.13 188> pkm, policy, subsidiary, knowledge creation, alliance, smes, open innovation, host unit, innovation, knowledge management
+    <2010-2014.10 158> ambidexterity, pkm, policy, subsidiary, design, knowledge creation, smes, innovation, knowledge management, knowledge
+    <2011-2015.11 053> policy, design, innovation, product design, ipp, collaboration, innovation policy, regulation, product form, eeg
+    <2012-2016.07 069> innovation, regional innovation, policy, process innovation, policy mix, offshore wind, human capital, open innovation, innovation policy, exporting
+    <2013-2017.09 042> innovation, open innovation, regional innovation, policy, policy mix, offshore wind, innovation policy, persistency, persistence, wind
+    <2014-2018.07 111> ecosystem, ghg, ret, military, energy, wind, rebound, policy, offshore wind, rets
+    <2015-2019.11 086> ghg, land, ret, policy, energy, military, arable land, technology upgrading, rets, offshore wind
+    <2016-2020.14 067> gvc, energy, policy, military, technology upgrading, pvc, policy mix, orchestrating, upgrading, wind
+    <2017-2021.10 044> gvc, policy, sti, technology upgrading, nrc, policy mix, orchestrating, upgrading, sti policy, gvcs
+
+[D26] :: 2008-2012.08 -> 2009-2013.06 -> 2010-2014.03 -> 2011-2015.04 -> 2012-2016.09 -> 2013-2017.06 -> 2014-2018.10 -> 2015-2019.06 -> 2016-2020.12 -> 2017-2021.04 (84)
+    <2008-2012.08 073> delphi, foresight, sustainability, forest, ambidexterity, scenario, mlp, icts, standardisation, ict development
+    <2009-2013.06 092> delphi, foresight, ambidexterity, sustainability, forest, transport, scenario, strategic foresight, icts, ict development
+    <2010-2014.03 061> delphi, foresight, sustainability, emergency, strategic foresight, disaster, standardisation, corporate foresight, sustainable development, corporate sustainability
+    <2011-2015.04 080> trm, foresight, delphi, roadmapping, emergency, roadmaps, transport, public transport, strategic foresight, disaster
+    <2012-2016.09 043> foresight, soes, narrative, strategic foresight, radar, corporate foresight, soe, planning, organisational, fiction
+    <2013-2017.06 056> foresight, soes, narrative, technology foresight, strategic foresight, radar, oil shale, corporate foresight, sectoral, soe
+    <2014-2018.10 060> foresight, soes, fla, narrative, technology foresight, open foresight, radar, oil shale, strategic foresight, corporate foresight
+    <2015-2019.06 056> foresight, ocs, narrative, technology foresight, open foresight, knowledge collaboration, main path, radar, strategic foresight, corporate foresight
+    <2016-2020.12 042> foresight, fla, ocs, technology foresight, open foresight, knowledge collaboration, strategic foresight, functional, soes, sectoral
+    <2017-2021.04 043> foresight, ocs, technology foresight, open foresight, knowledge collaboration, strategic foresight, functional, sectoral, text mining, future of work
+
+[D27] :: 2008-2012.10 -> 2009-2013.10 -> 2010-2014.05 -> 2011-2015.05 -> 2012-2016.16 -> 2013-2017.12 -> 2014-2018.01 -> 2015-2019.02 (48)
+    See similar trends: D3: 38%, D4: 38%, D11: 38%, D18: 38%
+    <2008-2012.10 129> rfid, scm, jit, tqm, crisis, lean, sscm, edi, ict, mixed
+    <2009-2013.10 130> erp, rfid, scm, lean, crisis, stockouts, auction, resilience, green, ict
+    <2010-2014.05 163> erp, rfid, scm, lean, green, ebay, stockouts, sci, auction, ict
+    <2011-2015.05 030> erp, lean, lean management, lean production, enterprise, csfs, discharge, sustainability, erp system, pdm
+    <2012-2016.16 234> erp, lean, mncs, ppm, portfolio, stakeholder, change management, subsidiary, project, governance
+    <2013-2017.12 173> erp, lean, ppm, portfolio, stakeholder, governmentality, project, risk management, accountability, project management
+    <2014-2018.01 034> lean, six sigma, sigma, management control, variability, process improvement, lean product development, lean product, lean service, lean operation
+    <2015-2019.02 033> lean, six sigma, sigma, management control, variability, process improvement, lean product development, lean product, lean service, lean operation
+
+[D28] :: 2009-2013.11 -> 2010-2014.08 -> 2011-2015.13 -> 2012-2016.16 -> 2013-2017.13 -> 2014-2018.15 (2)
+    See similar trends: D13: 67%
+    <2009-2013.11 094> career, programme, programme management, change management, csfs, project management, stakeholder, project, kpis, project based
+    <2010-2014.08 195> npd, programme, portfolio, team, ppm, nuclear, change management, governance, openness, csfs
+    <2011-2015.13 133> ppm, portfolio, stakeholder, change management, nuclear, governance, csfs, front end, risk management, agile
+    <2012-2016.16 234> erp, lean, mncs, ppm, portfolio, stakeholder, change management, subsidiary, project, governance
+    <2013-2017.13 057> npd, licensing, sustainability, csfs, creativity, npd portfolio, supervision, licensee, npd success, project
+    <2014-2018.15 048> npd, licensing, sustainability, npd portfolio, csfs, licensee, npd success, project, portfolio, solution information
+
+[D29] :: 2010-2014.03 -> 2011-2015.06 -> 2012-2016.12 -> 2013-2017.13 -> 2014-2018.15 -> 2015-2019.05 -> 2016-2020.11 -> 2017-2021.01 (10)
+    See similar trends: D21: 12%, D26: 12%
+    <2010-2014.03 061> delphi, foresight, sustainability, emergency, strategic foresight, disaster, standardisation, corporate foresight, sustainable development, corporate sustainability
+    <2011-2015.06 114> sscm, scm, green, rfid, sci, ict, sustainability, mixed, gscm, environmental management
+    <2012-2016.12 057> npd, team, sustainability, creativity, npd portfolio, supplier, power, patent, marketing, marketing department
+    <2013-2017.13 057> npd, licensing, sustainability, csfs, creativity, npd portfolio, supervision, licensee, npd success, project
+    <2014-2018.15 048> npd, licensing, sustainability, npd portfolio, csfs, licensee, npd success, project, portfolio, solution information
+    <2015-2019.05 056> licensing, patent, npes, litigation, novelty, patent portfolio, patent filing, patent litigation, licensee, lane
+    <2016-2020.11 060> patent, licensing, npes, main path, technology transfer, litigation, novelty, patent portfolio, opposition, epo
+    <2017-2021.01 087> trm, patent, thicket, delphi, licensing, npes, ebay, ipc, financial development, patent portfolio
+
+[D30] :: 2010-2014.05 -> 2011-2015.05 -> 2012-2016.16 -> 2013-2017.12 -> 2014-2018.14 -> 2015-2019.20 -> 2016-2020.19 -> 2017-2021.14 (8)
+    See similar trends: D3: 12%, D4: 12%, D11: 12%, D24: 12%
+    <2010-2014.05 163> erp, rfid, scm, lean, green, ebay, stockouts, sci, auction, ict
+    <2011-2015.05 030> erp, lean, lean management, lean production, enterprise, csfs, discharge, sustainability, erp system, pdm
+    <2012-2016.16 234> erp, lean, mncs, ppm, portfolio, stakeholder, change management, subsidiary, project, governance
+    <2013-2017.12 173> erp, lean, ppm, portfolio, stakeholder, governmentality, project, risk management, accountability, project management
+    <2014-2018.14 252> evm, ppm, erp, acap, portfolio, pms, stakeholder, knowledge protection, governmentality, project
+    <2015-2019.20 221> ppm, erp, certification, megaprojects, pms, stakeholder, governmentality, sustainability, project, msr
+    <2016-2020.19 134> ppm, storytelling, certification, megaprojects, sustainability, international development, stakeholder, accountability, project, msr
+    <2017-2021.14 089> ppm, megaprojects, sustainability, international development, stakeholder, accountability, project, msr, spm, megaproject
+
+[D31] :: 2011-2015.02 -> 2012-2016.04 -> 2013-2017.02 -> 2014-2018.07 -> 2015-2019.11 -> 2016-2020.14 -> 2017-2021.10 (88)
+    <2011-2015.02 065> backcasting, rebound, coal, emission, energy, ret, climate change, discursive, transition, renewable energy
+    <2012-2016.04 084> rebound, energy, solar, emission, niche, carbon trust, fgd, carbon, ret, lifestyle
+    <2013-2017.02 125> ets, rebound, paypal, military, ret, energy, emission, mobile, payment, ecosystem
+    <2014-2018.07 111> ecosystem, ghg, ret, military, energy, wind, rebound, policy, offshore wind, rets
+    <2015-2019.11 086> ghg, land, ret, policy, energy, military, arable land, technology upgrading, rets, offshore wind
+    <2016-2020.14 067> gvc, energy, policy, military, technology upgrading, pvc, policy mix, orchestrating, upgrading, wind
+    <2017-2021.10 044> gvc, policy, sti, technology upgrading, nrc, policy mix, orchestrating, upgrading, sti policy, gvcs
+
+[D32] :: 2011-2015.03 -> 2012-2016.03 -> 2013-2017.02 -> 2014-2018.02 -> 2015-2019.01 (46)
+    See similar trends: C3: 80%
+    <2011-2015.03 033> solar, ecosystem, payment, wind, mobile payment, diffusion, bass, installers, seasonal, solar cell
+    <2012-2016.03 030> paypal, mobile, ecosystem, payment, exhaustion, mobile payment, mobile banking, solar, innovation ecosystem, cash
+    <2013-2017.02 125> ets, rebound, paypal, military, ret, energy, emission, mobile, payment, ecosystem
+    <2014-2018.02 051> paypal, older, payment, mobile banking, older people, elderly, mobile, mobile payment, banking, cash
+    <2015-2019.01 082> legitimacy, nfc, income, inequality, paypal, legitimation, older, payment, mobile banking, older people
+
+[D33] :: 2011-2015.03 -> 2012-2016.03 -> 2013-2017.02 -> 2014-2018.07 -> 2015-2019.08 (17)
+    See similar trends: C3: 40%
+    <2011-2015.03 033> solar, ecosystem, payment, wind, mobile payment, diffusion, bass, installers, seasonal, solar cell
+    <2012-2016.03 030> paypal, mobile, ecosystem, payment, exhaustion, mobile payment, mobile banking, solar, innovation ecosystem, cash
+    <2013-2017.02 125> ets, rebound, paypal, military, ret, energy, emission, mobile, payment, ecosystem
+    <2014-2018.07 111> ecosystem, ghg, ret, military, energy, wind, rebound, policy, offshore wind, rets
+    <2015-2019.08 044> crowdsourcing, ecosystem, open innovation, wikipedia, keywords, crowd, evp, solar, innovation ecosystem, crowdsourcing project
+
+[D35] :: 2011-2015.11 -> 2012-2016.07 -> 2013-2017.09 -> 2014-2018.13 -> 2015-2019.15 -> 2016-2020.15 -> 2017-2021.09 (70)
+    See similar trends: D6: 43%, D12: 43%, D25: 43%
+    <2011-2015.11 053> policy, design, innovation, product design, ipp, collaboration, innovation policy, regulation, product form, eeg
+    <2012-2016.07 069> innovation, regional innovation, policy, process innovation, policy mix, offshore wind, human capital, open innovation, innovation policy, exporting
+    <2013-2017.09 042> innovation, open innovation, regional innovation, policy, policy mix, offshore wind, innovation policy, persistency, persistence, wind
+    <2014-2018.13 030> innovation, organizational innovation, regional innovation, process innovation, persistency, micro, regional, pintec, biotechnology, incremental process
+    <2015-2019.15 080> diversification, nsi, subsistence, social innovation, technological diversification, innovation, organizational innovation, social, regional innovation, innovation capability
+    <2016-2020.15 060> nsi, subsistence, social innovation, innovation, innovation capability, social, export, public support, exporting, rii
+    <2017-2021.09 055> nsi, subsistence, social innovation, innovation, informal sector, innovation capability, social, public support, informal, competition
+
+[D36] :: 2011-2015.13 -> 2012-2016.16 -> 2013-2017.13 -> 2014-2018.14 -> 2015-2019.20 -> 2016-2020.19 -> 2017-2021.14 (5)
+    See similar trends: D13: 71%, D17: 86%, D18: 86%
+    <2011-2015.13 133> ppm, portfolio, stakeholder, change management, nuclear, governance, csfs, front end, risk management, agile
+    <2012-2016.16 234> erp, lean, mncs, ppm, portfolio, stakeholder, change management, subsidiary, project, governance
+    <2013-2017.13 057> npd, licensing, sustainability, csfs, creativity, npd portfolio, supervision, licensee, npd success, project
+    <2014-2018.14 252> evm, ppm, erp, acap, portfolio, pms, stakeholder, knowledge protection, governmentality, project
+    <2015-2019.20 221> ppm, erp, certification, megaprojects, pms, stakeholder, governmentality, sustainability, project, msr
+    <2016-2020.19 134> ppm, storytelling, certification, megaprojects, sustainability, international development, stakeholder, accountability, project, msr
+    <2017-2021.14 089> ppm, megaprojects, sustainability, international development, stakeholder, accountability, project, msr, spm, megaproject
+
+[D37] :: 2011-2015.15 -> 2012-2016.14 -> 2013-2017.08 -> 2014-2018.12 -> 2015-2019.18 -> 2016-2020.17 -> 2017-2021.11 (3)
+    See similar trends: D5: 86%, D9: 86%, D23: 86%
+    <2011-2015.15 042> knowledge management, knowledge, tacit, tacit knowing, tacit knowledge, knowledge transfer, project, transfer, knowledge manager, tacit knowledge sharing
+    <2012-2016.14 057> cop, trust, knowledge sharing, ignorance, change readiness, readiness, community, generosity, knowledge, organisational
+    <2013-2017.08 114> cop, alliance, trust, knowledge, knowledge sharing, socialization, ignorance, knowledge creation, lsp, kios
+    <2014-2018.12 098> cop, knowledge, trust, ignorance, socialization, knowledge sharing, knowledge breadth, knowledge creation, knowledge management, kios
+    <2015-2019.18 097> park, stp, knowledge, knowledge management, motivation, intrinsic motivation, ignorance, social capital, knowledge sharing, knowledge creation
+    <2016-2020.17 121> family, park, stp, knowledge, knowledge management, knowledge integration, intrinsic motivation, organizational learning, seci, knowledge sharing
+    <2017-2021.11 088> family, erp, knowledge, knowledge integration, intrinsic motivation, knowledge creation, motivation, knowledge sharing behaviour, erm, work family
+
+[D38] :: 2012-2016.10 -> 2013-2017.07 -> 2014-2018.11 -> 2015-2019.17 -> 2016-2020.16 -> 2017-2021.07 (67)
+    <2012-2016.10 041> csr, cpa, lsps, alliance, iso, humanitarian, political csr, lsp, diversification, meta
+    <2013-2017.07 062> csr, cpa, lsps, humanitarian, iso, mnes, mne, foreign, domestic, political csr
+    <2014-2018.11 054> csr, certification, iso, mne, mnes, cpa, csr communication, lsps, political csr, paradox
+    <2015-2019.17 036> csr, iso, csr communication, political csr, certification, lsps, paradox, csr reporting, knowledge, mnes
+    <2016-2020.16 049> csr, paradox, iso, intuition, csr communication, lto, certification, csr reporting, political csr, cfp
+    <2017-2021.07 030> csr, paradox, lto, intuition, political csr, csr reporting, cfp, mnes, returnee, sme
+
+[D39] :: 2013-2017.04 -> 2014-2018.08 -> 2015-2019.10 -> 2016-2020.20 -> 2017-2021.12 (66)
+    <2013-2017.04 064> servitization, pkm, big data, city, smes, aging, business model, smart city, text analytics, urban
+    <2014-2018.08 065> bda, printing, big data, hearing, pkm, data, oms, service innovation, hearing loss, text analytics
+    <2015-2019.10 046> bda, big data, pkm, data, oms, service innovation, tds, analytics, visualization, text analytics
+    <2016-2020.20 060> bda, smes, big data, oms, data, service innovation, tds, sme, analytics, visualization
+    <2017-2021.12 047> bda, big data, oms, data, sme, visualization, data adoption, analytics, service innovation, big
+
+[D40] :: 2013-2017.04 -> 2014-2018.09 -> 2015-2019.12 -> 2016-2020.23 -> 2017-2021.16 (42)
+    <2013-2017.04 064> servitization, pkm, big data, city, smes, aging, business model, smart city, text analytics, urban
+    <2014-2018.09 157> gscm, scrm, vmi, scf, scm, cloud, eco, resilience, disaster, logistics
+    <2015-2019.12 043> rural, urbanization, urban, smart, smart home, urban logistics, smart city, icts, city, smart infrastructure
+    <2016-2020.23 034> smart, icts, smart city, city, urban, smart urban, smart infrastructure, barcelona, smart city development, city development
+    <2017-2021.16 034> smart, icts, smart city, city, urban, smart infrastructure, smart urban, barcelona, smart city development, safety
+
+[D41] :: 2013-2017.05 -> 2014-2018.06 -> 2015-2019.18 -> 2016-2020.17 -> 2017-2021.11 (3)
+    See similar trends: D15: 80%, D16: 80%
+    <2013-2017.05 037> family, exit, motivation, entrepreneurial, career horizon, intrinsic motivation, household, enrichment, wfi, ups
+    <2014-2018.06 099> tmt, family, exit, ipo, retirement, ceo, pep, lgbt, activism, board
+    <2015-2019.18 097> park, stp, knowledge, knowledge management, motivation, intrinsic motivation, ignorance, social capital, knowledge sharing, knowledge creation
+    <2016-2020.17 121> family, park, stp, knowledge, knowledge management, knowledge integration, intrinsic motivation, organizational learning, seci, knowledge sharing
+    <2017-2021.11 088> family, erp, knowledge, knowledge integration, intrinsic motivation, knowledge creation, motivation, knowledge sharing behaviour, erm, work family
+
+[D42] :: 2013-2017.07 -> 2014-2018.11 -> 2015-2019.20 -> 2016-2020.21 -> 2017-2021.13 (35)
+    See similar trends: D38: 40%
+    <2013-2017.07 062> csr, cpa, lsps, humanitarian, iso, mnes, mne, foreign, domestic, political csr
+    <2014-2018.11 054> csr, certification, iso, mne, mnes, cpa, csr communication, lsps, political csr, paradox
+    <2015-2019.20 221> ppm, erp, certification, megaprojects, pms, stakeholder, governmentality, sustainability, project, msr
+    <2016-2020.21 031> institutional, tax, mnes, mne, institutional diversity, home region, taxation, sme, project, grand
+    <2017-2021.13 031> institutional, tax, mnes, mne, institutional diversity, home region, taxation, sme, ethnic, project
+
+[D44] :: 2013-2017.13 -> 2014-2018.15 -> 2015-2019.20 -> 2016-2020.19 -> 2017-2021.14 (10)
+    See similar trends: D14: 40%, D28: 40%, D29: 40%, D36: 80%
+    <2013-2017.13 057> npd, licensing, sustainability, csfs, creativity, npd portfolio, supervision, licensee, npd success, project
+    <2014-2018.15 048> npd, licensing, sustainability, npd portfolio, csfs, licensee, npd success, project, portfolio, solution information
+    <2015-2019.20 221> ppm, erp, certification, megaprojects, pms, stakeholder, governmentality, sustainability, project, msr
+    <2016-2020.19 134> ppm, storytelling, certification, megaprojects, sustainability, international development, stakeholder, accountability, project, msr
+    <2017-2021.14 089> ppm, megaprojects, sustainability, international development, stakeholder, accountability, project, msr, spm, megaproject
+
+[C1] :: 2000-2004.00 -> 2001-2005.01 -> 2002-2006.02 -> 2003-2007.01 (24)
+    See similar trends: D1: 50%
+    <2000-2004.00 150> poverty, charter, income, afdc, schooling, family, school, earnings, college, consumption
+    <2001-2005.01 101> income, afdc, family, poverty, wage, work family, financing, relative deprivation, child support, college
+    <2002-2006.02 056> ppp, ouchi, pfi, family, work family, financing, family control, public, household, debt
+    <2003-2007.01 039> vcs, repurchase, ipo, board, ceo, underpricing, startup, stock, round, equity
+
+[C2] :: 2007-2011.05 -> 2008-2012.08 -> 2009-2013.06 -> 2010-2014.10 -> 2011-2015.11 -> 2012-2016.07 -> 2013-2017.09 (9)
+    See similar trends: D21: 43%
+    <2007-2011.05 073> delphi, sustainability, foresight, ambidexterity, scenario, mlp, energy, icts, standardisation, corporate foresight
+    <2008-2012.08 073> delphi, foresight, sustainability, forest, ambidexterity, scenario, mlp, icts, standardisation, ict development
+    <2009-2013.06 092> delphi, foresight, ambidexterity, sustainability, forest, transport, scenario, strategic foresight, icts, ict development
+    <2010-2014.10 158> ambidexterity, pkm, policy, subsidiary, design, knowledge creation, smes, innovation, knowledge management, knowledge
+    <2011-2015.11 053> policy, design, innovation, product design, ipp, collaboration, innovation policy, regulation, product form, eeg
+    <2012-2016.07 069> innovation, regional innovation, policy, process innovation, policy mix, offshore wind, human capital, open innovation, innovation policy, exporting
+    <2013-2017.09 042> innovation, open innovation, regional innovation, policy, policy mix, offshore wind, innovation policy, persistency, persistence, wind
+
+[C3] :: 2008-2012.11 -> 2009-2013.08 -> 2010-2014.07 -> 2011-2015.03 -> 2012-2016.04 -> 2013-2017.02 -> 2014-2018.02 -> 2015-2019.01 (8)
+    See similar trends: D2: 38%
+    <2008-2012.11 058> patent, examiner, patenting, qualcomm, cdma, faculty, citation, diffusion, business method, sipo
+    <2009-2013.08 066> patent, university, patenting, usos, grace, opposition, convergence, cdma, sipo, uspto
+    <2010-2014.07 087> nanotechnology, patent, university, patenting, grace, opposition, licensing, cdma, sipo, convergence
+    <2011-2015.03 033> solar, ecosystem, payment, wind, mobile payment, diffusion, bass, installers, seasonal, solar cell
+    <2012-2016.04 084> rebound, energy, solar, emission, niche, carbon trust, fgd, carbon, ret, lifestyle
+    <2013-2017.02 125> ets, rebound, paypal, military, ret, energy, emission, mobile, payment, ecosystem
+    <2014-2018.02 051> paypal, older, payment, mobile banking, older people, elderly, mobile, mobile payment, banking, cash
+    <2015-2019.01 082> legitimacy, nfc, income, inequality, paypal, legitimation, older, payment, mobile banking, older people
+
+[C4] :: 2011-2015.04 -> 2012-2016.06 -> 2013-2017.03 -> 2014-2018.05 (42)
+    See similar trends: D21: 25%, D26: 25%
+    <2011-2015.04 080> trm, foresight, delphi, roadmapping, emergency, roadmaps, transport, public transport, strategic foresight, disaster
+    <2012-2016.06 037> port, trm, roadmapping, roadmaps, scenario, roadmap, module, sti, sti policy, scenario practice
+    <2013-2017.03 044> port, roadmapping, scenario, scenario planning, trm, roadmap, module, scenario practice, roadmaps, scotland
+    <2014-2018.05 037> standardisation, roadmapping, scenario planning, scenario, trm, ipc, module, convergence, roadmap, patent
+
+[C5] :: 2012-2016.16 -> 2013-2017.12 -> 2014-2018.14 -> 2015-2019.19 (1)
+    See similar trends: D13: 75%, D17: 75%, D18: 75%, D22: 50%, D27: 50%, D28: 25%, D30: 75%, D36: 50%
+    <2012-2016.16 234> erp, lean, mncs, ppm, portfolio, stakeholder, change management, subsidiary, project, governance
+    <2013-2017.12 173> erp, lean, ppm, portfolio, stakeholder, governmentality, project, risk management, accountability, project management
+    <2014-2018.14 252> evm, ppm, erp, acap, portfolio, pms, stakeholder, knowledge protection, governmentality, project
+    <2015-2019.19 034> team, leadership, servant, servant leadership, team building, team learning, moral, gfc, team culture, tlc
+
+[C6] :: 2013-2017.06 -> 2014-2018.10 -> 2015-2019.06 -> 2016-2020.11 -> 2017-2021.01 (3)
+    See similar trends: D26: 60%
+    <2013-2017.06 056> foresight, soes, narrative, technology foresight, strategic foresight, radar, oil shale, corporate foresight, sectoral, soe
+    <2014-2018.10 060> foresight, soes, fla, narrative, technology foresight, open foresight, radar, oil shale, strategic foresight, corporate foresight
+    <2015-2019.06 056> foresight, ocs, narrative, technology foresight, open foresight, knowledge collaboration, main path, radar, strategic foresight, corporate foresight
+    <2016-2020.11 060> patent, licensing, npes, main path, technology transfer, litigation, novelty, patent portfolio, opposition, epo
+    <2017-2021.01 087> trm, patent, thicket, delphi, licensing, npes, ebay, ipc, financial development, patent portfolio
+
+[C7] :: 2014-2018.00 -> 2015-2019.03 -> 2016-2020.01 -> 2017-2021.00 (48)
+    <2014-2018.00 057> social commerce, virtual, privacy, movie, addiction, distrust, brand, anfis, transparency, tag
+    <2015-2019.03 031> ewom, movie, anfis, twitter, tag, user, side information, recommender, trust, feature space
+    <2016-2020.01 053> ewom, brand, movie, user interest, tag, brand community, user, brand equity, brand engagement, side information
+    <2017-2021.00 040> brand, movie, user interest, brand community, user, brand equity, ewom, side information, brand engagement, brand positioning
+
+[C8] :: 2014-2018.09 -> 2015-2019.15 -> 2016-2020.15 -> 2017-2021.09 (2)
+    See similar trends: D3: 25%, D4: 25%, D21: 25%, D24: 25%, D40: 25%, B11: 25%
+    <2014-2018.09 157> gscm, scrm, vmi, scf, scm, cloud, eco, resilience, disaster, logistics
+    <2015-2019.15 080> diversification, nsi, subsistence, social innovation, technological diversification, innovation, organizational innovation, social, regional innovation, innovation capability
+    <2016-2020.15 060> nsi, subsistence, social innovation, innovation, innovation capability, social, export, public support, exporting, rii
+    <2017-2021.09 055> nsi, subsistence, social innovation, innovation, informal sector, innovation capability, social, public support, informal, competition
+
+[B1] :: 2000-2004.03 -> 2001-2005.03 -> 2002-2006.03 -> 2003-2007.03 (18)
+    <2000-2004.03 048> erp, linux, downsizing, export, cad, open source, software, exporting, apple, branding
+    <2001-2005.03 046> patent, export, software, patenting, exporting, citation, canon, radical, market information, genetic
+    <2002-2006.03 061> csr, export, fdi, corruption, diversification, tfp, exporting, international diversification, mne, product diversification
+    <2003-2007.03 035> csr, corruption, diversification, relatedness, international diversification, electrical machinery, ois, assimilation capacity, technological diversification, geographic diversification
+
+[B2] :: 2000-2004.05 -> 2001-2005.00 -> 2002-2006.03 -> 2003-2007.03 (32)
+    <2000-2004.05 033> fdi, overseas, corruption, tfp, soes, mnes, mne, triad, internalization, local
+    <2001-2005.00 054> hrm, fdi, overseas, corruption, tfp, mnes, mne, triad, internalization, soes
+    <2002-2006.03 061> csr, export, fdi, corruption, diversification, tfp, exporting, international diversification, mne, product diversification
+    <2003-2007.03 035> csr, corruption, diversification, relatedness, international diversification, electrical machinery, ois, assimilation capacity, technological diversification, geographic diversification
+
+[B3] :: 2005-2009.09 -> 2006-2010.13 -> 2007-2011.08 (28)
+    <2005-2009.09 040> spin, venture, university, spin offs, venture capital, industry involvement, lrd, park, industry, research and technology
+    <2006-2010.13 079> spin offs, patent, examiner, university, licensing, center, mae, inventor, industry involvement, faculty
+    <2007-2011.08 035> center, spin, university, waterloo, spin offs, industry involvement, contract research, faculty, research and technology, industry
+
+[B4] :: 2004-2008.05 -> 2005-2009.06 -> 2006-2010.03 (3)
+    See similar trends: D6: 67%
+    <2004-2008.05 034> innovation, regional, knowledge sourcing, policy, persistence, service, innovation process, innovation intermediary, intermediary, outsourcing
+    <2005-2009.06 071> outsourcing, regional, bsc, innovation, smes, knowledge sourcing, policy, patenting, regional development, performance measurement
+    <2006-2010.03 039> iso, environmental, policy, evolutionary, environmental management, stakeholder, environmental innovation, bevs, innovation, adaptive
+
+[B5] :: 2005-2009.03 -> 2006-2010.02 -> 2007-2011.01 -> 2008-2012.01 (32)
+    <2005-2009.03 057> incubator, biotech, hsip, cluster, ntbfs, ict, agglomeration, park, science, ict adoption
+    <2006-2010.02 030> incubator, biotech, ntbfs, park, cluster, incubator management, ethanol, lifecycle, biomass, ethical
+    <2007-2011.01 052> marriage, divorce, park, childcare, noncognitive, health, minimum wage, treatment, skin, child
+    <2008-2012.01 054> tariff, disability, marriage, spacing, child, math, teacher, child labor, enrollment, mortality
+
+[B6] :: 2005-2009.10 -> 2006-2010.11 -> 2007-2011.12 -> 2008-2012.13 (2)
+    See similar trends: D5: 75%, D9: 75%, D10: 75%, D12: 50%
+    <2005-2009.10 198> alliance, knowledge, cultural, construction, knowledge management, web, tacit, tacit knowing, smes, learning
+    <2006-2010.11 146> hrm, pmo, leadership, project, stakeholder, project management, project based, project strategy, multiple project, pmbok
+    <2007-2011.12 199> knowledge, alliance, open innovation, knowledge creation, smes, innovation, construction, knowledge management, web, tacit knowing
+    <2008-2012.13 065> construction, knowledge, knowledge management, web, knowledge transfer, subsidiary, tacit, tacit knowledge, tacit knowing, transfer
+
+[B7] :: 2006-2010.06 -> 2007-2011.04 -> 2008-2012.05 -> 2009-2013.01 (22)
+    See similar trends: D16: 50%, D17: 50%
+    <2006-2010.06 053> tmt, family, governance, relational governance, corporate governance, interdependence, stewardship, tmt board, ceo, team
+    <2007-2011.04 084> family, governance, tmt, board, work family, relational governance, ceo, corporate governance, interdependence, asset specificity
+    <2008-2012.05 032> distance, relational governance, asset specificity, uncertainty, acquisition, acquirer, wave, cultural distance, specificity, legal
+    <2009-2013.01 050> fdi, mode, state ownership, distance, affiliate, asset specificity, mncs, acquirer, inward fdi, cultural distance
+
+[B8] :: 2007-2011.00 -> 2008-2012.00 -> 2009-2013.05 (22)
+    <2007-2011.00 031> format, equivalence, dif, congruence, invariance, lcm, formative, latent class, irt, latent
+    <2008-2012.00 033> mediation, dif, invariance, latent class, formative, irt, latent, formative measurement, mediational, bootstrap
+    <2009-2013.05 030> orientation, invariance, formative, launch, pricing, market orientation, learning orientation, formative measurement, market launch, product launch
+
+[B9] :: 2009-2013.11 -> 2010-2014.08 -> 2011-2015.15 (3)
+    See similar trends: D13: 67%, D28: 67%, A6: 67%
+    <2009-2013.11 094> career, programme, programme management, change management, csfs, project management, stakeholder, project, kpis, project based
+    <2010-2014.08 195> npd, programme, portfolio, team, ppm, nuclear, change management, governance, openness, csfs
+    <2011-2015.15 042> knowledge management, knowledge, tacit, tacit knowing, tacit knowledge, knowledge transfer, project, transfer, knowledge manager, tacit knowledge sharing
+
+[B10] :: 2008-2012.08 -> 2009-2013.06 -> 2010-2014.05 -> 2011-2015.06 (2)
+    See similar trends: D21: 50%, D26: 50%, C2: 50%
+    <2008-2012.08 073> delphi, foresight, sustainability, forest, ambidexterity, scenario, mlp, icts, standardisation, ict development
+    <2009-2013.06 092> delphi, foresight, ambidexterity, sustainability, forest, transport, scenario, strategic foresight, icts, ict development
+    <2010-2014.05 163> erp, rfid, scm, lean, green, ebay, stockouts, sci, auction, ict
+    <2011-2015.06 114> sscm, scm, green, rfid, sci, ict, sustainability, mixed, gscm, environmental management
+
+[B11] :: 2009-2013.03 -> 2010-2014.05 -> 2011-2015.06 -> 2012-2016.13 -> 2013-2017.10 -> 2014-2018.09 -> 2015-2019.09 (5)
+    <2009-2013.03 034> ijv, trust, trustee, project, overseas, goodwill trust, trust repair, automaker, trustor, high reliability
+    <2010-2014.05 163> erp, rfid, scm, lean, green, ebay, stockouts, sci, auction, ict
+    <2011-2015.06 114> sscm, scm, green, rfid, sci, ict, sustainability, mixed, gscm, environmental management
+    <2012-2016.13 078> scf, scm, green, healthcare, supply, cyber, cloud, green innovation, supply chain, sustainability
+    <2013-2017.10 124> scf, scm, resilience, green, sci, disaster, scrm, agility, healthcare, emergency
+    <2014-2018.09 157> gscm, scrm, vmi, scf, scm, cloud, eco, resilience, disaster, logistics
+    <2015-2019.09 072> sscm, gscm, scrm, blockchain, scm, agility, bitcoin, supply, kmc, pricing
+
+[B12] :: 2010-2014.07 -> 2011-2015.08 -> 2012-2016.12 -> 2013-2017.13 -> 2014-2018.15 (3)
+    See similar trends: D2: 40%, C3: 20%
+    <2010-2014.07 087> nanotechnology, patent, university, patenting, grace, opposition, licensing, cdma, sipo, convergence
+    <2011-2015.08 064> patent, patenting, opposition, sipo, uspto, roadmap, patent infringement, joint patent, infringement, patent term
+    <2012-2016.12 057> npd, team, sustainability, creativity, npd portfolio, supplier, power, patent, marketing, marketing department
+    <2013-2017.13 057> npd, licensing, sustainability, csfs, creativity, npd portfolio, supervision, licensee, npd success, project
+    <2014-2018.15 048> npd, licensing, sustainability, npd portfolio, csfs, licensee, npd success, project, portfolio, solution information
+
+[B13] :: 2011-2015.03 -> 2012-2016.04 -> 2013-2017.02 -> 2014-2018.07 -> 2015-2019.08 (6)
+    See similar trends: C3: 60%
+    <2011-2015.03 033> solar, ecosystem, payment, wind, mobile payment, diffusion, bass, installers, seasonal, solar cell
+    <2012-2016.04 084> rebound, energy, solar, emission, niche, carbon trust, fgd, carbon, ret, lifestyle
+    <2013-2017.02 125> ets, rebound, paypal, military, ret, energy, emission, mobile, payment, ecosystem
+    <2014-2018.07 111> ecosystem, ghg, ret, military, energy, wind, rebound, policy, offshore wind, rets
+    <2015-2019.08 044> crowdsourcing, ecosystem, open innovation, wikipedia, keywords, crowd, evp, solar, innovation ecosystem, crowdsourcing project
+
+[B14] :: 2012-2016.11 -> 2013-2017.11 -> 2014-2018.05 (5)
+    See similar trends: D2: 67%
+    <2012-2016.11 076> nanotechnology, patent, patenting, ipc, novelty, opposition, sipo, uspto, patent term, patent infringement
+    <2013-2017.11 062> patent, patenting, ipc, novelty, patent portfolio, opposition, patent filing, sipo, uspto, patent term
+    <2014-2018.05 037> standardisation, roadmapping, scenario planning, scenario, trm, ipc, module, convergence, roadmap, patent
+
+[B15] :: 2015-2019.04 -> 2016-2020.10 -> 2017-2021.05 (55)
+    <2015-2019.04 063> crowdfunding, green, hotel, user, gip, equity crowdfunding, user innovation, green product, green innovation, user manufacturer
+    <2016-2020.10 058> crowdfunding, green, green technology, user, equity crowdfunding, user innovation, green product, green innovation, user manufacturer, backer
+    <2017-2021.05 065> crowdfunding, lead user, green technology, green, user, gip, user innovation, equity crowdfunding, green product, backer
+
+[B16] :: 2014-2018.04 -> 2015-2019.07 -> 2016-2020.13 (31)
+    <2014-2018.04 040> third mission, heis, entrepreneurial, technology transfer, university, gambling, vocational, higher education, triple helix, programme
+    <2015-2019.07 036> spin, third mission, entrepreneurial, stanford, university, parent, entrepreneurial university, cyprus, mission, campus
+    <2016-2020.13 054> spin, incubator, accelerator, heis, third mission, incubation, acceleration, entrepreneurial, stanford, entrepreneurial university
+
+[B17] :: 2014-2018.11 -> 2015-2019.20 -> 2016-2020.19 -> 2017-2021.14 (2)
+    See similar trends: D38: 25%, D42: 50%
+    <2014-2018.11 054> csr, certification, iso, mne, mnes, cpa, csr communication, lsps, political csr, paradox
+    <2015-2019.20 221> ppm, erp, certification, megaprojects, pms, stakeholder, governmentality, sustainability, project, msr
+    <2016-2020.19 134> ppm, storytelling, certification, megaprojects, sustainability, international development, stakeholder, accountability, project, msr
+    <2017-2021.14 089> ppm, megaprojects, sustainability, international development, stakeholder, accountability, project, msr, spm, megaproject
+
+[B18] :: 2015-2019.13 -> 2016-2020.04 -> 2017-2021.06 (37)
+    <2015-2019.13 032> career, identity, identity work, script, dec, mobility, organizational identity, psychological contract, metatheories, nostalgia
+    <2016-2020.04 044> empowerment, identity, identity work, role identity, performance based, dec, structural empowerment, police, psychological empowerment, identification
+    <2017-2021.06 036> identity, empowerment, identity work, role identity, performance based, organizational identity, police, dec, structural empowerment, consulting
+
+[B19] :: 2015-2019.20 -> 2016-2020.17 -> 2017-2021.11 (2)
+    See similar trends: D13: 67%, D17: 33%, D18: 33%, D30: 33%, D36: 33%, D42: 33%, D44: 33%, B17: 33%, A17: 33%
+    <2015-2019.20 221> ppm, erp, certification, megaprojects, pms, stakeholder, governmentality, sustainability, project, msr
+    <2016-2020.17 121> family, park, stp, knowledge, knowledge management, knowledge integration, intrinsic motivation, organizational learning, seci, knowledge sharing
+    <2017-2021.11 088> family, erp, knowledge, knowledge integration, intrinsic motivation, knowledge creation, motivation, knowledge sharing behaviour, erm, work family
+
+[A1] :: 2001-2005.02 -> 2002-2006.05 -> 2003-2007.06 (35)
+    See similar trends: D6: 33%
+    <2001-2005.02 058> innovation, service, regional, biotechnology, biotech, networking, web, web service, technological, nigeria
+    <2002-2006.05 043> incubator, biotech, cluster, biotechnology, park, icts, ntbfs, science, usos, ict
+    <2003-2007.06 052> incubator, spin, ethical, cluster, park, xerox, ntbfs, science, parent firm, biotech
+
+[A2] :: 2002-2006.01 -> 2003-2007.01 (20)
+    <2002-2006.01 049> enron, ethnostatistics, vcs, ipo, succession, ceo, successor, compensation, pay, executive pay
+    <2003-2007.01 039> vcs, repurchase, ipo, board, ceo, underpricing, startup, stock, round, equity
+
+[A3] :: 2003-2007.02 -> 2004-2008.01 (23)
+    <2003-2007.02 050> discourse, narrative, identity, middle, action research, cold war, metaphor, airline, terry, insider
+    <2004-2008.01 031> narrative, identity, knowing, metaphor, corporate identity, terry, metaphorical, merger, trust, political process
+
+[A4] :: 2005-2009.06 -> 2006-2010.10 -> 2007-2011.10 -> 2008-2012.10 -> 2009-2013.07 (8)
+    See similar trends: D6: 20%
+    <2005-2009.06 071> outsourcing, regional, bsc, innovation, smes, knowledge sourcing, policy, patenting, regional development, performance measurement
+    <2006-2010.10 105> rfid, scm, logistics, outsourcing, agility, reverse logistics, edi, sci, logistics performance, supply chain
+    <2007-2011.10 097> scm, crisis, reverse logistics, ict, edi, sci, supplier, supply chain, agility, interfirm
+    <2008-2012.10 129> rfid, scm, jit, tqm, crisis, lean, sscm, edi, ict, mixed
+    <2009-2013.07 040> trm, ppm, roadmaps, front end, process development, roadmap, roadmapping, risk, risk management, relationship value
+
+[A5] :: 2004-2008.03 -> 2005-2009.05 (20)
+    <2004-2008.03 034> ethnography, amj, reviewer, lab, manuscript, citation, tim, journal, interesting, quality
+    <2005-2009.05 030> amj, reviewer, manuscript, journal, editorial, evaluation form, board, editorial board, interesting, bedeian et al
+
+[A6] :: 2008-2012.03 -> 2009-2013.11 -> 2010-2014.08 -> 2011-2015.07 -> 2012-2016.12 (14)
+    <2008-2012.03 057> jazz, career, downsizing, sensemaking, turnover, action research, promotion, temporary, polychronicity, bhopal
+    <2009-2013.11 094> career, programme, programme management, change management, csfs, project management, stakeholder, project, kpis, project based
+    <2010-2014.08 195> npd, programme, portfolio, team, ppm, nuclear, change management, governance, openness, csfs
+    <2011-2015.07 035> npd, team, marketing, creativity, npd portfolio, marketing department, team member, portfolio, strategic planning, information
+    <2012-2016.12 057> npd, team, sustainability, creativity, npd portfolio, supplier, power, patent, marketing, marketing department
+
+[A7] :: 2007-2011.02 -> 2008-2012.02 (21)
+    <2007-2011.02 032> music, piracy, mobile payment, napster, mobile, authentication, convergence, fixed line, merchant, use case
+    <2008-2012.02 033> advertising, music, mobile payment, mobile, authentication, idi, fixed line, merchant, use case, mobile device
+
+[A8] :: 2005-2009.11 -> 2006-2010.03 (2)
+    See similar trends: D3: 50%
+    <2005-2009.11 088> scm, logistics, flexibility, reverse logistics, sci, logistics performance, mix flexibility, environmental, supply network, transport
+    <2006-2010.03 039> iso, environmental, policy, evolutionary, environmental management, stakeholder, environmental innovation, bevs, innovation, adaptive
+
+[A9] :: 2008-2012.04 -> 2009-2013.05 (20)
+    <2008-2012.04 033> broadband, switching, orientation, launch, pricing, learning orientation, corporate culture, resource orientation, mobile broadband, market orientation
+    <2009-2013.05 030> orientation, invariance, formative, launch, pricing, market orientation, learning orientation, formative measurement, market launch, product launch
+
+[A10] :: 2011-2015.10 -> 2012-2016.16 -> 2013-2017.12 (2)
+    See similar trends: D19: 33%
+    <2011-2015.10 053> leadership, identity, leadership development, charismatic, pms, distributed leadership, identity work, pregnant, leader, pmo
+    <2012-2016.16 234> erp, lean, mncs, ppm, portfolio, stakeholder, change management, subsidiary, project, governance
+    <2013-2017.12 173> erp, lean, ppm, portfolio, stakeholder, governmentality, project, risk management, accountability, project management
+
+[A11] :: 2012-2016.10 -> 2013-2017.08 -> 2014-2018.12 (7)
+    See similar trends: D38: 33%
+    <2012-2016.10 041> csr, cpa, lsps, alliance, iso, humanitarian, political csr, lsp, diversification, meta
+    <2013-2017.08 114> cop, alliance, trust, knowledge, knowledge sharing, socialization, ignorance, knowledge creation, lsp, kios
+    <2014-2018.12 098> cop, knowledge, trust, ignorance, socialization, knowledge sharing, knowledge breadth, knowledge creation, knowledge management, kios
+
+[A12] :: 2010-2014.00 -> 2011-2015.00 (16)
+    <2010-2014.00 051> retirement, tariff, child, ageing, teacher, mca, enrollment, age, school, health
+    <2011-2015.00 032> retirement, older, older people, elderly, ageing, alarm, age, pendant, active ageing, health
+
+[A13] :: 2011-2015.02 -> 2012-2016.00 (1)
+    See similar trends: D31: 50%
+    <2011-2015.02 065> backcasting, rebound, coal, emission, energy, ret, climate change, discursive, transition, renewable energy
+    <2012-2016.00 038> ewom, delphi, policy delphi, backcasting, emergency, public participation, disaster, twitter, sim, communicative
+
+[A14] :: 2014-2018.03 -> 2015-2019.01 (18)
+    <2014-2018.03 034> legitimacy, income, inequality, legitimation, change, marriage, economic inequality, divorce, childbearing, medicaid
+    <2015-2019.01 082> legitimacy, nfc, income, inequality, paypal, legitimation, older, payment, mobile banking, older people
+
+[A15] :: 2013-2017.00 -> 2014-2018.06 -> 2015-2019.16 (10)
+    <2013-2017.00 034> gvc, ipo, conservatism, vcs, syndicate, angel, underpricing, ivc, convertible, interlock
+    <2014-2018.06 099> tmt, family, exit, ipo, retirement, ceo, pep, lgbt, activism, board
+    <2015-2019.16 031> family, exit, sew, stewardship, founder, household, family business, tmt, nonfamily, noneconomic
+
+[A16] :: 2016-2020.09 -> 2017-2021.01 (7)
+    <2016-2020.09 039> standardisation, trm, roadmapping, delphi, scenario, policy delphi, scenario planning, roadmap, pst, opinion
+    <2017-2021.01 087> trm, patent, thicket, delphi, licensing, npes, ebay, ipc, financial development, patent portfolio
+
+[A17] :: 2014-2018.06 -> 2015-2019.20 -> 2016-2020.19 -> 2017-2021.14 (4)
+    See similar trends: D15: 25%, D16: 25%, D41: 25%
+    <2014-2018.06 099> tmt, family, exit, ipo, retirement, ceo, pep, lgbt, activism, board
+    <2015-2019.20 221> ppm, erp, certification, megaprojects, pms, stakeholder, governmentality, sustainability, project, msr
+    <2016-2020.19 134> ppm, storytelling, certification, megaprojects, sustainability, international development, stakeholder, accountability, project, msr
+    <2017-2021.14 089> ppm, megaprojects, sustainability, international development, stakeholder, accountability, project, msr, spm, megaproject
+
+[A18] :: 2016-2020.18 -> 2017-2021.08 (34)
+    <2016-2020.18 041> printing, digital, digital culture, business model, digital economy, business model innovation, model innovation, digital transformation, generativity, frontier
+    <2017-2021.08 038> printing, digital, digital culture, born, business model, digital economy, business model innovation, model innovation, generativity, frontier
+
+[A19] :: 2015-2019.13 -> 2016-2020.07 (6)
+    See similar trends: B18: 50%
+    <2015-2019.13 032> career, identity, identity work, script, dec, mobility, organizational identity, psychological contract, metatheories, nostalgia
+    <2016-2020.07 030> career, mobility, imaginary, protean, life course, eudaimonic, career success, csm, employment, authorship
